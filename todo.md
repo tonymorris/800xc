@@ -38,3 +38,4 @@
 * Radiator guard (Metal)
 * Pre-filter (Unifilter)
 * Bypass kickstand cut-out
+* Replace Hex bolts with Torx
