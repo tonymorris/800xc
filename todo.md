@@ -10,6 +10,9 @@
 * GPS 
   * Mount
   * Power
+* Phone
+  * Mount
+  * Power
 * 12V points 
   * USB
   * DIN
@@ -39,3 +42,6 @@
 * Pre-filter (Unifilter)
 * Bypass kickstand cut-out
 * Replace Hex bolts with Torx
+* SPOT device
+  * mount
+* Headlight protector
