@@ -1,24 +1,40 @@
-* Exhaust (Barrett?)
-* Panniers (Barrett?)
+* Exhaust 
+  * Waiting for email response from Barrett
+* Panniers
+  * Waiting for email response from Barrett
 * Indicators
 * LED lights
-* UHF
-* GPS
-* 12V points
+* UHF 
+  * Push to talk switch
+  * SR10 integration
+* GPS 
+  * Mount
+  * Power
+* 12V points 
+  * USB
+  * DIN
 * Rear suspension
-* Levers
-* Handguards
-* Handlebars (risers or new?)
-* Engine guard
-* Bash plate
+  * MPE suspension
+* Levers 
+  * ASV C/5 or F3
+* Handguards 
+  * Cycra
+  * Sicass indicators
+* Handlebars 
+  * Risers?
+* Engine guard 
+  * Touratech or cheaper
+* Bash plate 
+  * Genuine Triumph or cheaper
 * Power Commander?
 * Tyres
-* Headed grips
+* Heated grips
 * Swingarm spools
-* Fuel tank
-* Pegs
+* Fuel tank 
+  * Safari
+* Pegs (Metal)
 * Screen
 * Seat?
-* Radiator guard
-* Unifilter pre-filter
-* Kickstand cut-out
+* Radiator guard (Metal)
+* Pre-filter (Unifilter)
+* Bypass kickstand cut-out
