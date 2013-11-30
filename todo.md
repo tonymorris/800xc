@@ -1,5 +1,5 @@
-* Exhaust
-* Panniers
+* Exhaust (Barrett?)
+* Panniers (Barrett?)
 * Indicators
 * LED lights
 * UHF
