@@ -42,6 +42,7 @@
   * AltRider
 * Power Commander?
 * Tyres
+  * Heidenau K60
 * Heated grips
 * Swingarm spools
 * Fuel tank 
