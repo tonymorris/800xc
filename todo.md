@@ -1,7 +1,11 @@
 * Exhaust 
-  * Waiting for email response from Barrett
+  * Barrett (Waiting for email response)
+  * Leo Vince LV-One
+  * Two Brothers M-2 VALE
+  * Akrapovic
+  * Remus
 * Panniers
-  * Waiting for email response from Barrett
+  * Barrett (Waiting for email response)
 * Indicators
 * LED lights
 * UHF 
@@ -25,10 +29,17 @@
   * Sicass indicators
 * Handlebars 
   * Risers?
-* Engine guard 
+* Crash bars / Engine guard 
+  * Holan
+  * AltRider
+  * SW Motech
   * Touratech or cheaper
 * Bash plate 
+  * AltRider
+  * SW Motech
   * Genuine Triumph or cheaper
+* Kickstand Foot
+  * AltRider
 * Power Commander?
 * Tyres
 * Heated grips
@@ -39,7 +50,11 @@
 * Screen
 * Seat?
 * Radiator guard (Metal)
+  * AltRider
+  * Touratech
 * Pre-filter (Unifilter)
+* Windshield
+  * Madstad [Explorer]
 * Bypass kickstand cut-out
 * Replace Hex bolts with Torx
 * SPOT device
