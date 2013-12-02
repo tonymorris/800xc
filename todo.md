@@ -67,8 +67,6 @@
     * [altrider.com](http://www.altrider.com/altrider-radiator-guard-for-triumph-tiger-800xc/pid/712) $US131.22
     * [advdesigns.com](http://www.advdesigns.com/alragufortrt.html) $US131.22
   * Touratech
-* Kickstand Foot
-  * AltRider
 * Power Commander?
 * Tyres
   * Heidenau K60
