@@ -88,6 +88,7 @@
 * Power Commander?
 * Tyres
   * Heidenau K60
+  * TKC 80
 * Heated grips
 * Swingarm spools
 * Fuel tank 
