@@ -42,6 +42,8 @@
     * [motoradgarage](https://www.motorradgarage.com.au/crashbars-engine-guard-triumph-tiger-800-800xc-11-) AU$279.00
     * [xjpioneer ebay](https://www.motorradgarage.com.au/engine-guard-skid-plate-triumph-tiger-800-800xc) US$234.99
   * Touratech or cheaper
+  * Triumph
+    * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-engine-protection-bars.html) US$199.99
 * Skid plate 
   * AltRider
     * [altrider.com](http://www.altrider.com/altrider-skid-plate-for-the-triumph-tiger-800xc/pid/702) US$298.72
@@ -58,7 +60,8 @@
     [revzilla](http://www.revzilla.com/motorcycle/moose-racing-skid-plate-triumph-tiger-800xc-2011-2012) US$163.95
   * Adventure Spec
     [adventure-spec.com](http://www.adventure-spec.com/default/adventure-spec-bashplate-triumph-tiger-800-and-800xc-1.html) GBP180.00
-  * Genuine Triumph or cheaper
+  * Triumph
+    * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-sump-guard.html) $US199.99
 * Headlight protector
   * Hepco-Becker
     * [motomachines](http://www.motomachines.com/Headlight-Grille--Triumph-Tiger-800-XC_p_1561.html) $US111.83
@@ -67,6 +70,8 @@
     * [altrider.com](http://www.altrider.com/altrider-radiator-guard-for-triumph-tiger-800xc/pid/712) $US131.22
     * [advdesigns.com](http://www.advdesigns.com/alragufortrt.html) $US131.22
   * Touratech
+  * Triumph
+    * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-aluminum-radiator-guard-kit.html) $US69.99
 * Power Commander?
 * Tyres
   * Heidenau K60
