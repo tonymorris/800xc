@@ -97,6 +97,7 @@
 * Seat?
 * Pre-filter (Unifilter)
   * [_NU3703 for 800XC, NU3704 for 800XC ABS_](http://www.tiger800.co.uk/index.php?topic=9468.0)
+  * _Our part# NU 3704 fits both the Abs and non Abs models. -- Myles Gooch, Manager, Unifilter Australia_
   * Unifilter
     * [uniflow.com.au](http://www.uniflow.com.au/contents/en-us/p5646.html) AU$24.75
 * Windshield
