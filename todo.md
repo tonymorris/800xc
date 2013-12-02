@@ -1,11 +1,11 @@
 * Exhaust 
-  * Barrett (Waiting for email response)
+  * Barrett
   * Leo Vince LV-One
   * Two Brothers M-2 VALE
   * Akrapovic
   * Remus
 * Panniers
-  * Barrett (Waiting for email response)
+  * Barrett
 * Indicators
 * LED lights
 * UHF 
@@ -23,7 +23,18 @@
 * Rear suspension
   * MPE suspension
 * Levers 
-  * ASV C/5 or F3
+  * ASV C/5
+    * [calsport-1 ebay](http://www.ebay.com.au/itm/Triumph-Tiger-800-XC-ASV-C5-Brake-Clutch-Adjustable-Levers-/141029146077) $AU274.74
+  * ASV F3
+  * Pazzo
+    * solomotoparts.com
+      * [Clutch](http://www.solomotoparts.com/Pazzo-Lever-Clutch-for-Tiger-800XC-11-13/) US$94.99
+      * [Brake](http://www.solomotoparts.com/Pazzo-Lever-Brake-for-Tiger-800XC-11-13/) US$94.99
+      * [Both](http://www.solomotoparts.com/Pazzo-Levers-Brake-and-Clutch-for-Tiger-800XC-11-13/) US$168.99
+    * [pazzoracing.com.au](http://www.pazzoracing.com.au/contents/en-uk/p7884_Tiger_800_XC_%2811-12%29_Pazzo_Lever_Set_.html) AU$229.00
+    * [pureperformancecycles.com](http://www.pureperformancecycles.com/Products/Controls/Pazzo-Levers/Pazzo-Lever-Set-fits--07--11-Tiger-1050---800-XC/) $168.99
+  * Knock-off Pazzo
+    * [motorcyclepartssale ebay](http://www.ebay.com.au/itm/CNC-Brake-Clutch-Levers-Triumph-TIGER-1050-2007-2012-TIGER-800-XC-2011-2012-/270942394687) $AU31.99
 * Handguards 
   * Cycra
   * Sicass indicators
@@ -70,6 +81,8 @@
     * [altrider.com](http://www.altrider.com/altrider-radiator-guard-for-triumph-tiger-800xc/pid/712) $US131.22
     * [advdesigns.com](http://www.advdesigns.com/alragufortrt.html) $US131.22
   * Touratech
+  * Rad Guard
+    * [radguard.com.au](http://www.radguard.com.au/products/triumph-tiger-800-tiger-800xc-2011-2013-radiator-guards.html) AU$148.00
   * Triumph
     * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-aluminum-radiator-guard-kit.html) $US69.99
 * Power Commander?
@@ -78,14 +91,18 @@
 * Heated grips
 * Swingarm spools
 * Fuel tank 
-  * [Safari](http://www.safaritanks.com.au/home/vmchk/18-Triumph/View-all-products.html) AU$925 + shipping
+  * [Safari](http://www.safaritanks.com.au/home/vmchk/18-Triumph/View-all-products.html) AU$925
 * Pegs (Metal)
 * Screen
 * Seat?
 * Pre-filter (Unifilter)
+  * [_NU3703 for 800XC, NU3704 for 800XC ABS_](http://www.tiger800.co.uk/index.php?topic=9468.0)
+  * Unifilter
+    * [uniflow.com.au](http://www.uniflow.com.au/contents/en-us/p5646.html) AU$24.75
 * Windshield
   * Madstad [Explorer]
 * Bypass kickstand cut-out
 * Replace Hex bolts with Torx
 * SPOT device
   * mount
+Cat. Eliminator
