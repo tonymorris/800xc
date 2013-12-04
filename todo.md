@@ -87,6 +87,9 @@
   * _Risers?_
   * ROX Handle Bar Adjustable / Pivoting Risers
     * [advdesigns.com](http://www.advdesigns.com/roxhabarpiri.html) US$87.00
+    * [altrider.com](http://www.altrider.com/rox-pivoting-handlebar-riser-2-rise-x-1-1-8-handlebar-clamp-x-1-1-8-handlebar/pid/611) US$81.00
+    * [freedomcycleenv.com](http://shop.freedomcyclenv.com/rox-pivoting-handlebar-risers/) US$83.95
+    * [adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?manufacturers_id=107&products_id=1978) $AU112.95
 * Crash bars / Engine guard 
   * Hepco-Becker
     * [advdepot.com](http://advdepot.com/hepco-becker-engine-guard-triumph-tiger-800-xc.html) $US249.99
