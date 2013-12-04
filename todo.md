@@ -1,11 +1,13 @@
 * Exhaust 
   * Barrett
+    * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-gallery.html) [AU$495.00](http://www.barrettexhausts.com.au/triumph-shop.html)
   * Leo Vince LV-One
   * Two Brothers M-2 VALE
   * Akrapovic
   * Remus
 * Panniers
   * Barrett
+    * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= $AU895.00](http://www.barrettexhausts.com.au/panniers.html)
 * Indicators
 * LED lights
 * UHF 
