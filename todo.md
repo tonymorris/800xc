@@ -112,7 +112,7 @@
     * _comes in black or silver_
     * [motoradgarage](https://www.motorradgarage.com.au/engine-guard-skid-plate-triumph-tiger-800-800xc) $299.00
     * [twistedthrottle.com](http://www.twistedthrottle.com/sw-motech-aluminum-engine-guard-skidplate-triumph-tiger-800-800xc-11-black-silver) US$252.50
-    * [motivationusa](http://www.motovationusa.com/mvstore/scripts/prodView.asp?idProduct=2094)
+    * [motivationusa](http://www.motovationusa.com/mvstore/scripts/prodView.asp?idProduct=2094) US$252.50
   * Hepco-Becker
     * [motomachines.com](http://www.motomachines.com/Skid-Plate--Triumph-Tiger-800-XC_p_443.html) $US242.11
   * Moose Racing
