@@ -91,6 +91,7 @@
 * Handguards 
   * Cycra
   * Sicass indicators
+    * [sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) $US56.98
 * Handlebars 
   * _Risers?_
   * ROX Handle Bar Adjustable / Pivoting Risers
