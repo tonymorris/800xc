@@ -1,10 +1,53 @@
 * Exhaust 
   * Barrett
     * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-gallery.html) [AU$495.00](http://www.barrettexhausts.com.au/triumph-shop.html)
-  * Leo Vince LV-One
+  * Leo Vince LV-One EVO II Slip-On
+    * Stainless
+      * [revzilla.com](http://www.revzilla.com/motorcycle/leo-vince-lv-one-evo-ii-slip-on-exhaust-triumph-tiger-800-2011-2012) US$318.98
+      * [indysuperbikes.com](http://www.indysuperbikes.com/customer/product.php?productid=1678062&cat=0&page=61) US$318.90
+      * [advmotorad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=159) US$318.98
+      * [motorcyclehear.com](http://www.motorcyclegear.com/parts/all_other_exhausts/triumph/leo_vince_/triumph_tiger_800xc_2011_lv_one_evo_ii_slip_on_exhaust.html) $US318.99
+      * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=31384) $US269.78
+    * Carbon
+      * [revzilla.com](http://www.revzilla.com/motorcycle/leo-vince-lv-one-evo-ii-slip-on-exhaust-triumph-tiger-800-2011-2012) US$409.18
+      * [indysuperbikes.com](http://www.indysuperbikes.com/customer/product.php?productid=1678062&cat=0&page=61) US$398.90      
+      * [advmotorad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=159) US$409.18
+      * [motorcyclehear.com](http://www.motorcyclegear.com/parts/all_other_exhausts/triumph/leo_vince_/triumph_tiger_800xc_2011_lv_one_evo_ii_slip_on_exhaust.html) $US409.99
+      * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=31384) $US351.78
   * Two Brothers M-2 VALE
+    * Aluminium
+      * [revzilla.com](http://www.revzilla.com/motorcycle/two-brothers-m-2-vale-slip-on-exhaust-triumph-tiger-800-2011-2013) $US423.96
+      * [motorcyclegear.com](http://www.motorcyclegear.com/parts/all_other_exhausts/triumph/two_brothers_racing/triumph_tiger_800_xc_2011_m2_vale_slip_on_exhaust.html) $US386.99
+    * Titanium
+      * [revzilla.com](http://www.revzilla.com/motorcycle/two-brothers-m-2-vale-slip-on-exhaust-triumph-tiger-800-2011-2013) $US511.96
+      * [motorcyclegear.com](http://www.motorcyclegear.com/parts/all_other_exhausts/triumph/two_brothers_racing/triumph_tiger_800_xc_2011_m2_vale_slip_on_exhaust.html) $US467.99
+    * Carbon
+      * [revzilla.com](http://www.revzilla.com/motorcycle/two-brothers-m-2-vale-slip-on-exhaust-triumph-tiger-800-2011-2013) $US511.96
+      * [motorcyclegear.com](http://www.motorcyclegear.com/parts/all_other_exhausts/triumph/two_brothers_racing/triumph_tiger_800_xc_2011_m2_vale_slip_on_exhaust.html) $US467.99
   * Akrapovic
+    * [revzilla.com](http://www.revzilla.com/motorcycle/akrapovic-slip-on-exhaust-system-triumph-tiger-800-xc-2011-2013) $US830.64
+    * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=23588) $US830.66
+    * [altrider.com](http://www.altrider.com/akrapovic-triumph-tiger-800-800-xc-slip-on-exhaust-system/pid/1332) $US830.65
+    * [surfsidemoto.com](http://www.surfsidemoto.com/store/product/AKR18112489.html) $US779.95
+    * [discount-moto-direct.com](http://www.discount-moto-direct.com/akrapovic-slip-on-exhaust-titanium-triumph-tiger-800xc-2011-2013/#.Up7FlUPTYak) $US735.96
   * Remus
+    * Stainless
+      * [motorcycle-luggage-shop.com](http://www.motorcycle-luggage-shop.com/Motorcycle_Brand/50837__Triumph_Tiger_800_XC_Exhaust/10190__REMUS_HEXACONE_muffler_stainless_steel_slip_on_with_steel_core_includes_connecting_tube_Triumph_800800XC.html) GBP539.00
+      * [ppl-1 ebay](http://www.ebay.co.uk/itm/Remus-Stainless-Hexacone-Slip-On-Exhaust-Triumph-Tiger-800-800XC-XC-11-12-13-/261344954644?pt=UK_Motorcycle_Parts_13&hash=item3cd95f8914) GBP354.95
+      * [bici.co.ok](http://www.bici.co.uk/Shop/Motorcycle-Exhausts/Triumph-Exhausts/36598-Triumph-Tiger-800-Remus-Motorcycle-Exhausts-AND-Full-Systems.html) GBP375.00
+    * Titanium
+      * [motorcycle-luggage-shop.com](http://www.motorcycle-luggage-shop.com/Touratech/51699__Triumph_Tiger_800_XC_Exhaust/10191__REMUS_HEXACONE_muffler_Titanium_slip_on_with_stainless_steel_core_includes_connecting_tube_all_street_legal_for_Triumph_800800XC.html) GBP599.00
+      * [ppl-1 ebay](http://www.ebay.co.uk/itm/Remus-Titanium-Hexacone-Slip-On-Exhaust-Triumph-Tiger-800-800XC-XC-11-12-13-/370955230619?pt=UK_Motorcycle_Parts_13&hash=item565ea79d9b) GBP395.95
+      * [bici.co.uk](http://www.bici.co.uk/Shop/Motorcycle-Exhausts/Triumph-Exhausts/36598-Triumph-Tiger-800-Remus-Motorcycle-Exhausts-AND-Full-Systems.html) GBP420.00
+    * Carbon
+      * [motorcycle-luggage-shop.com](http://www.motorcycle-luggage-shop.com/Touratech/51699__Triumph_Tiger_800_XC_Exhaust/10192__REMUS_HEXACONE_muffler_Carbon_slip_on_with_stainless_steel_core_includes_connecting_tube_all_street_legal_for_Triumph_800800XC.html) GBP639.00
+      * [ppl-1 ebay](http://www.ebay.co.uk/itm/Remus-Carbon-Fibre-Hexacone-Slip-On-Exhaust-Triumph-Tiger-800-800XC-XC-11-13-/261332182988?pt=UK_Motorcycle_Parts_13&hash=item3cd89ca7cc) GBP405.95
+      * [bici.co.uk](http://www.bici.co.uk/Shop/Motorcycle-Exhausts/Triumph-Exhausts/36598-Triumph-Tiger-800-Remus-Motorcycle-Exhausts-AND-Full-Systems.html) GBP430.00
+  * Yoshimura RS-4
+    * [revzilla.com](http://www.revzilla.com/motorcycle/yoshimura-rs-4-slip-on-exhaust-triumph-tiger-800xc-2012-2013) $US349.27
+    * [motorcyclegear.com](http://www.motorcyclegear.com/parts/exhausts/triumph/yoshimura/triumph_tiger_800_xc_2011_rs4_slip_on_exhaust.html) US$349.99
+    * [powersports111 ebay](http://www.ebay.com.au/itm/TRIUMPH-TIGER-800XC-2011-2012-2013-YOSHIMURA-RS4-SO-SS-CT-EXHAUST-1980-02D520-/161083419100) uS$359.50
+    * [motorcycle-superstore.co.uk](http://www.motorcycle-superstore.co.uk/23795/i/yoshimura-rs-4-slip-on-exhaust-2013-triumph-tiger-800xc-parts) GBP214.97
 * Panniers
   * Barrett
     * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= $AU895.00](http://www.barrettexhausts.com.au/panniers.html)
@@ -87,7 +130,8 @@
     * [radguard.com.au](http://www.radguard.com.au/products/triumph-tiger-800-tiger-800xc-2011-2013-radiator-guards.html) AU$148.00
   * Triumph
     * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-aluminum-radiator-guard-kit.html) $US69.99
-* Power Commander?
+* Power Commander V
+  * [motorcyclegear.com](http://www.motorcyclegear.com/parts/power_commander_and_juice_box_pro/triumph/dynojet/triumph_tiger_800xc_2011_power_commander_v.html) $US322.99
 * Tyres
   * Heidenau K60
   * TKC 80
@@ -95,7 +139,9 @@
 * Swingarm spools
 * Fuel tank 
   * [Safari](http://www.safaritanks.com.au/home/vmchk/18-Triumph/View-all-products.html) AU$925
-* Pegs (Metal)
+* Pegs  
+  * Pivot Pegz Mark 3
+    * [revzilla.com](http://www.revzilla.com/motorcycle/pivot-pegz-mark-3-pivot-pegs-triumph-tiger-800xc) $US169.95
 * Screen
 * Seat?
 * Pre-filter (Unifilter)
