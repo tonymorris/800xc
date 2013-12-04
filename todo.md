@@ -105,7 +105,7 @@
   * Madstad [Explorer]
 * Bypass kickstand cut-out
 * Replace Hex bolts with Torx
-* SPOT 2 GS Messenger
+* SPOT 2 GPS Messenger
   * [ja-gps.com.au](http://www.ja-gps.com.au/SPOT/spot-satellite-gps-messenger-v2/) $AU155
   * [US$115/year subscription](http://au.findmespot.com/en/index.php?cid=103)
     * 200 annual check-in/OK US$0.10 thereafter
