@@ -5,13 +5,13 @@
     * Stainless
       * [revzilla.com](http://www.revzilla.com/motorcycle/leo-vince-lv-one-evo-ii-slip-on-exhaust-triumph-tiger-800-2011-2012) US$318.98
       * [indysuperbikes.com](http://www.indysuperbikes.com/customer/product.php?productid=1678062&cat=0&page=61) US$318.90
-      * [advmotorad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=159) US$318.98
+      * [advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=159) US$318.98
       * [motorcyclehear.com](http://www.motorcyclegear.com/parts/all_other_exhausts/triumph/leo_vince_/triumph_tiger_800xc_2011_lv_one_evo_ii_slip_on_exhaust.html) $US318.99
       * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=31384) $US269.78
     * Carbon
       * [revzilla.com](http://www.revzilla.com/motorcycle/leo-vince-lv-one-evo-ii-slip-on-exhaust-triumph-tiger-800-2011-2012) US$409.18
       * [indysuperbikes.com](http://www.indysuperbikes.com/customer/product.php?productid=1678062&cat=0&page=61) US$398.90      
-      * [advmotorad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=159) US$409.18
+      * [advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=159) US$409.18
       * [motorcyclegear.com](http://www.motorcyclegear.com/parts/all_other_exhausts/triumph/leo_vince_/triumph_tiger_800xc_2011_lv_one_evo_ii_slip_on_exhaust.html) $US409.99
       * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=31384) $US351.78
   * Two Brothers M-2 VALE
@@ -92,7 +92,7 @@
     * [advdepot.com](http://advdepot.com/hepco-becker-engine-guard-triumph-tiger-800-xc.html) $US249.99
     * [motomachines.com](http://www.motomachines.com/Engine-Guard--Triumph-Tiger-800-XC_p_461.html) US$251.79
   * Holan
-    * [advmotorad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=87) $US264.99
+    * [advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=87) $US264.99
   * AltRider
   * SW Motech
     * [motoradgarage](https://www.motorradgarage.com.au/crashbars-engine-guard-triumph-tiger-800-800xc-11-) AU$279.00
