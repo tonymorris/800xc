@@ -53,6 +53,14 @@
     * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= $AU895.00](http://www.barrettexhausts.com.au/panniers.html)
 * Indicators
 * LED lights
+  * Denali DM1
+    * [mishacycles.com](https://mishacycles.com/store/Denali-DM1-Micro-Single-Intensity-LED-Lighting-Kit-with-Full-Wiring-Harness-and-M8-Mount.html) $US187.99
+    * [twistedthrottle.com](http://www.twistedthrottle.com/denali-dm1-micro-single-intensity-led-lighting-kit-with-full-wiring-harness-and-m8-mount) $US234.99
+  * BajaDesigns Squadron
+    * [_Baja Designs_](http://www.advrider.com/forums/showthread.php?t=896592)
+    * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=498003) $US679.95
+  * BajaDesigns SII
+    * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=488003) $US459.95
 * UHF 
   * Push to talk switch
   * SR10 integration
