@@ -112,7 +112,7 @@
     * [motivationusa](http://www.motovationusa.com/mvstore/scripts/prodView.asp?idProduct=2094)
   * Hepco-Becker
     * [motomachines.com](http://www.motomachines.com/Skid-Plate--Triumph-Tiger-800-XC_p_443.html) $US242.11
-  * Mosse Racing
+  * Moose Racing
     [revzilla](http://www.revzilla.com/motorcycle/moose-racing-skid-plate-triumph-tiger-800xc-2011-2012) US$163.95
   * Adventure Spec
     [adventure-spec.com](http://www.adventure-spec.com/default/adventure-spec-bashplate-triumph-tiger-800-and-800xc-1.html) GBP180.00
