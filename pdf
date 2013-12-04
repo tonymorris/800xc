@@ -1,0 +1,3 @@
+#!/bin/sh
+
+pandoc todo.md -o todo.pdf --tab-stop=2
