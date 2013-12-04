@@ -105,6 +105,7 @@
   * Madstad [Explorer]
 * Bypass kickstand cut-out
 * Replace Hex bolts with Torx
-* SPOT device
-  * mount
+* SPOT 2 GS Messenger
+  * [ja-gps.com.au](http://www.ja-gps.com.au/SPOT/spot-satellite-gps-messenger-v2/) $AU155
+  * RAM mount
 * Cat. Eliminator
