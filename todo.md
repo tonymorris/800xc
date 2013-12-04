@@ -107,5 +107,8 @@
 * Replace Hex bolts with Torx
 * SPOT 2 GS Messenger
   * [ja-gps.com.au](http://www.ja-gps.com.au/SPOT/spot-satellite-gps-messenger-v2/) $AU155
+  * [US$115/year subscription](http://au.findmespot.com/en/index.php?cid=103)
+    * 200 annual check-in/OK US$0.10 thereafter
+    * +US$49.99/year send to and save location
   * RAM mount
 * Cat. Eliminator
