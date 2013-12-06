@@ -1,3 +1,7 @@
+# Triumph 800XC
+
+## Accessories
+
 * Exhaust 
   * Barrett
     * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-gallery.html) [AU$495.00](http://www.barrettexhausts.com.au/triumph-shop.html)
@@ -93,12 +97,16 @@
   * Sicass indicators
     * [sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) $US56.98
 * Handlebars 
-  * _Risers?_
   * ROX Handle Bar Adjustable / Pivoting Risers
     * [advdesigns.com](http://www.advdesigns.com/roxhabarpiri.html) US$87.00
     * [altrider.com](http://www.altrider.com/rox-pivoting-handlebar-riser-2-rise-x-1-1-8-handlebar-clamp-x-1-1-8-handlebar/pid/611) US$81.00
     * [freedomcycleenv.com](http://shop.freedomcyclenv.com/rox-pivoting-handlebar-risers/) US$83.95
     * [adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?manufacturers_id=107&products_id=1978) $AU112.95
+  * SW Motech 20mm Riser
+    * [squaredeals-ltd.co.uk](http://www.squaredeals-ltd.co.uk/triumph-tiger-800--800xc-handlebar-riser-20mm-leh1103910000s-14150-p.asp) GBP32.00
+    * [jcsmotorcycles.com.au](http://www.jcsmotorcycles.com.au/index.php?route=product/product&sort=p.price&order=ASC&manufacturer_id=17&product_id=697) AUD79.00
+    * [ollyhands0 ebay](http://www.ebay.com.au/itm/TRIUMPH-Tiger-800xc-Handle-Bar-Riser-20mm-Rise-Anodized-Silver-/360498193724) GBP44.99
+    * [advdepot.com](http://advdepot.com/sw-motech-handlebar-risers-tiger-explorer.html) US$47.99
 * Crash bars / Engine guard 
   * Hepco-Becker
     * [advdepot.com](http://advdepot.com/hepco-becker-engine-guard-triumph-tiger-800-xc.html) $US249.99
@@ -165,6 +173,11 @@
 * Pegs  
   * Pivot Pegz Mark 3
     * [revzilla.com](http://www.revzilla.com/motorcycle/pivot-pegz-mark-3-pivot-pegs-triumph-tiger-800xc) $US169.95
+  * SW Motech
+    * [motorradgarage.com.au](https://www.motorradgarage.com.au/foot-peg-kit-on-road-off-road-triumph-tiger-800-800xc-and-explorer-1200) $AU159.00
+    * [twistedthrottle.com](http://www.twistedthrottle.com/sw-motech-on-road-off-road-footpegs-triumph-tiger-800-800xc-11-explorer-1200-12) $US147.98
+    * [advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=380) $US147.98
+    * [squaredeals-ltd.co.uk](http://www.squaredeals-ltd.co.uk/tiger-800--800xc-footpeg-lowering--road-off-road-kit-frs1101110100s-14809-p.asp) GBP89.99
 * Screen
 * Seat?
 * ![Purchased 20131205 from uniflow](tick.png) ~~Pre-filter (Unifilter)~~
@@ -183,3 +196,12 @@
     * +US$49.99/year send to and save location
   * RAM mount
 * Cat. Eliminator
+
+## Legend
+
+* ![Purchased](tick.png)
+* ![Decided against](cross.png)
+
+## Notes
+
+* [SW Motech Triumph 800/1050 (2 page PDF)](http://dl.dropbox.com/u/7810909/Triumph_Tiger1050_Tiger800XC.pdf)
