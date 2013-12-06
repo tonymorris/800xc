@@ -167,11 +167,11 @@
     * [revzilla.com](http://www.revzilla.com/motorcycle/pivot-pegz-mark-3-pivot-pegs-triumph-tiger-800xc) $US169.95
 * Screen
 * Seat?
-* Pre-filter (Unifilter)
-  * [_NU3703 for 800XC, NU3704 for 800XC ABS_](http://www.tiger800.co.uk/index.php?topic=9468.0)
-  * _Our part# NU 3704 fits both the Abs and non Abs models. -- Myles Gooch, Manager, Unifilter Australia_
-  * Unifilter
-    * [uniflow.com.au](http://www.uniflow.com.au/contents/en-us/p5646.html) AU$24.75 (AU$7.00 shipping)
+* ![Purchased 20131205 from uniflow](tick.png) ~~Pre-filter (Unifilter)~~
+  * ~~[_NU3703 for 800XC, NU3704 for 800XC ABS_](http://www.tiger800.co.uk/index.php?topic=9468.0)~~
+  * ~~_Our part# NU 3704 fits both the Abs and non Abs models. -- Myles Gooch, Manager, Unifilter Australia_~~
+  * ~~Unifilter~~
+    * ~~[uniflow.com.au](http://www.uniflow.com.au/contents/en-us/p5646.html) AU$24.75 (AU$7.00 shipping)~~
 * Windshield
   * Madstad [Explorer]
 * Bypass kickstand cut-out
