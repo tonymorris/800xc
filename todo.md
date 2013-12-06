@@ -55,7 +55,13 @@
 * Panniers
   * Barrett
     * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= AUD895.00](http://www.barrettexhausts.com.au/panniers.html)
-* Indicators
+* Turn signals
+  * Front
+    * Sicass
+      * [sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) USD56.98
+  * Rear
+    * HDB
+      * [highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=turn_signals)
 * LED lights
   * Denali DM1
     * [mishacycles.com](https://mishacycles.com/store/Denali-DM1-Micro-Single-Intensity-LED-Lighting-Kit-with-Full-Wiring-Harness-and-M8-Mount.html) USD187.99
@@ -93,8 +99,25 @@
   * Knock-off Pazzo
     * [motorcyclepartssale ebay](http://www.ebay.com.au/itm/CNC-Brake-Clutch-Levers-Triumph-TIGER-1050-2007-2012-TIGER-800-XC-2011-2012-/270942394687) AUD31.99
 * Handguards 
-  * Cycra
-  * Sicass indicators
+  * Cycra Pro Bend Bar Pack
+    * U-Clamp 1 1/8"
+      * [store.cycraracing.com](http://store.cycraracing.com/uclhamos.html) USD44.95
+      * [amazon.com](http://www.amazon.com/Cycra-1CYC-1350-12-Clamp-1-1-Handlebars/dp/B004MEEJ7K) USD35.96
+      * [motosport.com](http://www.motosport.com/dirtbike/CYCRA-PRO-BEND-U-CLAMP-MOUNT) AUD58.15
+      * [motorcycle-superstore.com](http://www.motorcycle-superstore.com/39568/i/cycra-u-clamp-mount-system) USD40.99
+      * [dirtbikebitz.com](http://www.dirtbikebitz.com/cycra-pro-bend-clamp-fitting-kit-p-7439.html) GBP26.99
+    * [bikebandit.com](http://www.bikebandit.com/cycra-probend-handguard-bar-pack) USD74.95
+    * [cycraracing.com](http://store.cycraracing.com/alprbarpab.html) USD82.95
+    * [bikebiz.com.au](http://www.bikebiz.com.au/products/Cycra-ProBend-Handguards.html) AUD84.95
+    * [torpedo7.com.au](http://www.torpedo7.com.au/products/YCP2HNNS1/title/cycra-probend-bar-pack-dx-hand-guards) AUD99.99
+    * [slavensracing.com](http://slavensracing.com/shop/cycra-alloy-probend-handguard-pack-with-hand-shields/) USD76.95
+  * HDB
+    * [_Just an FYI for those getting the HDB setup - follow up with a note right after ordering, and they'll be glad to enlarge the bar hole from 8mm to 10mm for you to accomodate the OEM end weights._](http://www.tiger800.co.uk/index.php/topic,1947.msg64710.html#msg64710)
+    * Ultimate
+      * [highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=handguards_00)
+    * NextGen
+      * [highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=NexGen_00)
+  * Sicass handguard turn signals
     * [sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) USD56.98
 * Handlebars 
   * ROX Handle Bar Adjustable / Pivoting Risers
