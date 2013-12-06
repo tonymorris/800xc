@@ -71,6 +71,14 @@
     * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=498003) USD679.95
   * BajaDesigns SII
     * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=488003) USD459.95
+* Fog Lights
+  * Hawk LED Fog light kit
+    * [motorradgarage.com.au](https://www.motorradgarage.com.au/hawk-led-off-road-light-kit) AUD449.00
+  * Triumph
+    * [_Xenon Yellow Halogen Bulb_](http://www.amazon.com/gp/product/B002E2WMVW/ref=oh_details_o05_s00_i02?ie=UTF8&psc=1)
+    * [pure-triumph.com](http://www.pure-triumph.com/en-au/p-2587-triumph-tiger-800800xc-fog-light-kit-a9838011.aspx) USD316.62
+    * [bikesnstuffcheap ebay](http://www.ebay.com/itm/NEW-GENUINE-TRIUMPH-TIGER-800-ADVENTURE-FOG-LIGHT-KIT-WAS-329-99-NOW-289-00/281213504513?_trksid=p2047675.m1850&_trkparms=aid%3D222002%26algo%3DSIC.FIT%26ao%3D1%26asc%3D11%26meid%3D3203817211123461259%26pid%3D100011%26prg%3D1005%26rk%3D1%26rkt%3D5%26sd%3D281028845272%26) USD289.00
+    * [freedom-cyclenv.com](http://shop.freedomcyclenv.com/triumph-auxiliary-fog-light-kit/) USD316.62
 * UHF 
   * Push to talk switch
   * SR10 integration
