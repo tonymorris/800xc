@@ -74,11 +74,13 @@
 * Fog Lights
   * Hawk LED Fog light kit
     * [motorradgarage.com.au](https://www.motorradgarage.com.au/hawk-led-off-road-light-kit) AUD449.00
-  * Triumph
+  * Triumph Halogen (A9838011)
     * [_Xenon Yellow Halogen Bulb_](http://www.amazon.com/gp/product/B002E2WMVW/ref=oh_details_o05_s00_i02?ie=UTF8&psc=1)
     * [pure-triumph.com](http://www.pure-triumph.com/en-au/p-2587-triumph-tiger-800800xc-fog-light-kit-a9838011.aspx) USD316.62
     * [bikesnstuffcheap ebay](http://www.ebay.com/itm/NEW-GENUINE-TRIUMPH-TIGER-800-ADVENTURE-FOG-LIGHT-KIT-WAS-329-99-NOW-289-00/281213504513?_trksid=p2047675.m1850&_trkparms=aid%3D222002%26algo%3DSIC.FIT%26ao%3D1%26asc%3D11%26meid%3D3203817211123461259%26pid%3D100011%26prg%3D1005%26rk%3D1%26rkt%3D5%26sd%3D281028845272%26) USD289.00
     * [freedom-cyclenv.com](http://shop.freedomcyclenv.com/triumph-auxiliary-fog-light-kit/) USD316.62
+  * Triumph LED (A9838017)
+    * [bevanmotorcycle ebay](http://www.ebay.com/itm/GENUINE-TRIUMPH-TIGER-800-LED-FOG-LIGHT-KIT-A9838017-299-FREE-POST-UK-/370944744723?pt=UK_Motorcycle_Parts_13&hash=item565e079d13) GBP299.00
 * UHF 
   * Push to talk switch
   * SR10 integration
@@ -149,7 +151,7 @@
     * [motoradgarage](https://www.motorradgarage.com.au/crashbars-engine-guard-triumph-tiger-800-800xc-11-) AUD279.00
     * [xjpioneer ebay](http://www.ebay.com/itm/SW-MOTECH-Crashbars-Engine-Guards-Triumph-Tiger-800-800XC-XC-2011-2013-/300969368100?pt=Motorcycles_Parts_Accessories&hash=item46132c1a24) USD234.99
   * Touratech or cheaper
-  * Triumph
+  * Triumph (A9788004)
     * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-engine-protection-bars.html) USD199.99
 * Skid plate 
   * AltRider
@@ -167,7 +169,7 @@
     [revzilla](http://www.revzilla.com/motorcycle/moose-racing-skid-plate-triumph-tiger-800xc-2011-2012) USD163.95
   * Adventure Spec
     [adventure-spec.com](http://www.adventure-spec.com/default/adventure-spec-bashplate-triumph-tiger-800-and-800xc-1.html) GBP180.00
-  * Triumph
+  * Triumph (A9708233)
     * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-sump-guard.html) USD199.99
 * Headlight protector
   * Hepco-Becker
@@ -179,19 +181,22 @@
   * Touratech
   * Rad Guard
     * [radguard.com.au](http://www.radguard.com.au/products/triumph-tiger-800-tiger-800xc-2011-2013-radiator-guards.html) AUD148.00
-  * Triumph
+  * Triumph (A9708234)
     * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-aluminum-radiator-guard-kit.html) USD69.99
+    * [peterstevens.com.au](http://shop.peterstevens.com.au/A9708234/Tiger-800-Radiator-Guard/pd.php) AUD108.02
 * Power Commander V
   * [motorcyclegear.com](http://www.motorcyclegear.com/parts/power_commander_and_juice_box_pro/triumph/dynojet/triumph_tiger_800xc_2011_power_commander_v.html) USD322.99
 * Tyres
   * Heidenau K60
   * TKC 80
 * Heated grips
+  * Triumph (A9638058)
+    [shop.peterstevens.com.au](http://shop.peterstevens.com.au/A9638058/Tiger-800-Heated-Grip-Kit/pd.php) AUD270.04
 * Swingarm spools
   * R&G Cotton Reel
     * [twistedthrottle.com](http://www.twistedthrottle.com/r-g-cotton-reel-swingarm-spools-for-triumph-tiger-800-800xc-11-mz-1000s) USD33.99
     * [twistedthrottle.ca](http://www.twistedthrottle.ca/r-g-cotton-reel-swingarm-spools-for-triumph-tiger-800-800xc-11-mz-1000s) USD34.54
-  * Triumph
+  * Triumph (A9640023)
     * [pure-triumph.com](http://www.pure-triumph.com/en-au/p-2904-triumph-tiger-800-paddock-stand-bobbins-a9640023.aspx) USD59.98
     * [pro-italia.com](http://store.proitalia.com/triumph-tiger-800-800xc-rear-stand-spools-p-159785.html) USD59.98
     * [british-customs.com](http://www.british-customs.com/triumph-paddock-stand-bobbins-6286.html) USD59.98
