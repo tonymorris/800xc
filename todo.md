@@ -108,10 +108,10 @@
     * [motorcyclepartssale ebay](http://www.ebay.com.au/itm/CNC-Brake-Clutch-Levers-Triumph-TIGER-1050-2007-2012-TIGER-800-XC-2011-2012-/270942394687) AUD31.99
 * Handguards 
   * Cycra Pro Bend Bar Pack
-    * U-Clamp 1 1/8"
+    * U-Clamp 08+ Pro Taper/KTM OEM #1156-02
       * [store.cycraracing.com](http://store.cycraracing.com/uclhamos.html) USD44.95
-      * [amazon.com](http://www.amazon.com/Cycra-1CYC-1350-12-Clamp-1-1-Handlebars/dp/B004MEEJ7K) USD35.96
-      * [motosport.com](http://www.motosport.com/dirtbike/CYCRA-PRO-BEND-U-CLAMP-MOUNT) AUD58.15
+      * [amazon.com](http://www.amazon.com/Cycra-Clamp-Set-KTM-1156-02/dp/B000I87E0S/ref=sr_1_1?s=automotive&ie=UTF8&qid=1386479395&sr=1-1&keywords=cycra+u+clamp+1156-02) USD32.62
+      * [motosport.com](http://www.motosport.com/dirtbike/CYCRA-PRO-BEND-U-CLAMP-MOUNT) AUD57.90
       * [motorcycle-superstore.com](http://www.motorcycle-superstore.com/39568/i/cycra-u-clamp-mount-system) USD40.99
       * [dirtbikebitz.com](http://www.dirtbikebitz.com/cycra-pro-bend-clamp-fitting-kit-p-7439.html) GBP26.99
     * [bikebandit.com](http://www.bikebandit.com/cycra-probend-handguard-bar-pack) USD74.95
