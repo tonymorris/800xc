@@ -184,6 +184,8 @@
   * Triumph (A9708234)
     * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-aluminum-radiator-guard-kit.html) USD69.99
     * [peterstevens.com.au](http://shop.peterstevens.com.au/A9708234/Tiger-800-Radiator-Guard/pd.php) AUD108.02
+  * COX
+    * [surfsidemoto.com](http://www.surfsidemoto.com/store/product/COX536237.html) USD84.95
 * Power Commander V
   * [motorcyclegear.com](http://www.motorcyclegear.com/parts/power_commander_and_juice_box_pro/triumph/dynojet/triumph_tiger_800xc_2011_power_commander_v.html) USD322.99
 * Tyres
