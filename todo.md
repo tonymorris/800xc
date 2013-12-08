@@ -147,7 +147,7 @@
   * AltRider
   * SW Motech
     * [motoradgarage](https://www.motorradgarage.com.au/crashbars-engine-guard-triumph-tiger-800-800xc-11-) AUD279.00
-    * [xjpioneer ebay](https://www.motorradgarage.com.au/engine-guard-skid-plate-triumph-tiger-800-800xc) USD234.99
+    * [xjpioneer ebay](http://www.ebay.com/itm/SW-MOTECH-Crashbars-Engine-Guards-Triumph-Tiger-800-800XC-XC-2011-2013-/300969368100?pt=Motorcycles_Parts_Accessories&hash=item46132c1a24) USD234.99
   * Touratech or cheaper
   * Triumph
     * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-engine-protection-bars.html) USD199.99
@@ -158,7 +158,7 @@
     * [adventuremoto.com.au](http://www.adventuremoto.com.au/product_info.php?manufacturers_id=39&products_id=1415) AUD379.95
   * SW Motech
     * _comes in black or silver_
-    * [motoradgarage](https://www.motorradgarage.com.au/engine-guard-skid-plate-triumph-tiger-800-800xc) USD299.00
+    * [motoradgarage](https://www.motorradgarage.com.au/engine-guard-skid-plate-triumph-tiger-800-800xc) AUD299.00
     * [twistedthrottle.com](http://www.twistedthrottle.com/sw-motech-aluminum-engine-guard-skidplate-triumph-tiger-800-800xc-11-black-silver) USD252.50
     * [motivationusa](http://www.motovationusa.com/mvstore/scripts/prodView.asp?idProduct=2094) USD252.50
   * Hepco-Becker
