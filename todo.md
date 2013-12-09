@@ -59,9 +59,17 @@
   * Front
     * Sicass
       * [sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) USD56.98
+    * Triumph (A9830047)
+      * [peterstevens.com.au](http://shop.peterstevens.com.au/A9830047/LED-Mini-Indicators/pd.php) AUD89.95
+      * [bevanmotorcycle ebay](http://www.ebay.com.au/itm/GENUINE-TRIUMPH-TIGER-800-LED-INDICATORS-GLOSS-BLACK-A9830047-ONLY-55-/370859752890) GBP55.00
+      * [triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Indicator--LED--Black--Gloss--Kit-Requires-relay-A9830046-for-fitment/9932492/A9830047.html) USD65.93
   * Rear
     * HDB
       * [highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=turn_signals)
+    * Triumph (A9830047)
+      * [peterstevens.com.au](http://shop.peterstevens.com.au/A9830047/LED-Mini-Indicators/pd.php) AUD89.95
+      * [bevanmotorcycle ebay](http://www.ebay.com.au/itm/GENUINE-TRIUMPH-TIGER-800-LED-INDICATORS-GLOSS-BLACK-A9830047-ONLY-55-/370859752890) GBP55.00
+      * [triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Indicator--LED--Black--Gloss--Kit-Requires-relay-A9830046-for-fitment/9932492/A9830047.html) USD65.93
 * LED lights
   * Denali DM1
     * [mishacycles.com](https://mishacycles.com/store/Denali-DM1-Micro-Single-Intensity-LED-Lighting-Kit-with-Full-Wiring-Harness-and-M8-Mount.html) USD187.99
