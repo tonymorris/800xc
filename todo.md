@@ -63,6 +63,10 @@
       * [peterstevens.com.au](http://shop.peterstevens.com.au/A9830047/LED-Mini-Indicators/pd.php) AUD89.95
       * [bevanmotorcycle ebay](http://www.ebay.com.au/itm/GENUINE-TRIUMPH-TIGER-800-LED-INDICATORS-GLOSS-BLACK-A9830047-ONLY-55-/370859752890) GBP55.00
       * [triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Indicator--LED--Black--Gloss--Kit-Requires-relay-A9830046-for-fitment/9932492/A9830047.html) USD65.93
+    * Baja Designs Mini Stalk (60-3028)
+      * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=603028) USD52.95
+      * [bikebandit.com](http://www.bikebandit.com/baja-designs-mini-stalk-l-e-d-turn-signals?m=155146) USD47.95
+      * [amazon.com](http://www.amazon.com/Baja-Designs-Stalk-Signals-60-3028/dp/B000WJ9NBQ) USD44.62
   * Rear
     * HDB
       * [highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=turn_signals)
@@ -70,6 +74,10 @@
       * [peterstevens.com.au](http://shop.peterstevens.com.au/A9830047/LED-Mini-Indicators/pd.php) AUD89.95
       * [bevanmotorcycle ebay](http://www.ebay.com.au/itm/GENUINE-TRIUMPH-TIGER-800-LED-INDICATORS-GLOSS-BLACK-A9830047-ONLY-55-/370859752890) GBP55.00
       * [triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Indicator--LED--Black--Gloss--Kit-Requires-relay-A9830046-for-fitment/9932492/A9830047.html) USD65.93
+    * Baja Designs Mini Stalk (60-3028)
+      * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=603028) USD52.95
+      * [bikebandit.com](http://www.bikebandit.com/baja-designs-mini-stalk-l-e-d-turn-signals?m=155146) USD47.95
+      * [amazon.com](http://www.amazon.com/Baja-Designs-Stalk-Signals-60-3028/dp/B000WJ9NBQ) USD44.62
 * LED lights
   * Denali DM1
     * [mishacycles.com](https://mishacycles.com/store/Denali-DM1-Micro-Single-Intensity-LED-Lighting-Kit-with-Full-Wiring-Harness-and-M8-Mount.html) USD187.99
