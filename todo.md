@@ -67,6 +67,8 @@
   * BMC (FM632/04)
     * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=23384) USD80.96
     * [speedaddictcycles ebay](http://www.ebay.com.au/itm/BMC-Standard-Air-Filter-Triumph-Tiger-800-Tiger-800-XC-2011-2012-/190788855860) USD67.15
+    * [linkint.com.au](http://www.linkint.com.au/Product/69M-632-04_item.html) AUD124.95
+    * [speedaddictcycles.com](http://www.speedaddictcycles.com/product/LV-FM632-04/BMC-Standard-Air-Filter-Triumph-Tiger-800Tiger-800-XC-2011-2012.html) USD67.15
 * Panniers
   * Barrett
     * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= AUD895.00](http://www.barrettexhausts.com.au/panniers.html)
