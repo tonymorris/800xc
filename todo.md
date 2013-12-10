@@ -25,6 +25,8 @@
       * [advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=159) USD409.18
       * [motorcyclegear.com](http://www.motorcyclegear.com/parts/all_other_exhausts/triumph/leo_vince_/triumph_tiger_800xc_2011_lv_one_evo_ii_slip_on_exhaust.html) USD409.99
       * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=31384) USD351.78
+  * MIVV
+    * [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-OVAL-TITANIUM-CC-11-T011LNC-/111016887482) AUD448.13
   * Two Brothers M-2 VALE
     * Aluminium
       * [revzilla.com](http://www.revzilla.com/motorcycle/two-brothers-m-2-vale-slip-on-exhaust-triumph-tiger-800-2011-2013) USD423.96
