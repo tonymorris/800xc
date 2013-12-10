@@ -17,7 +17,7 @@
       * [revzilla.com](http://www.revzilla.com/motorcycle/leo-vince-lv-one-evo-ii-slip-on-exhaust-triumph-tiger-800-2011-2012) USD318.98
       * [indysuperbikes.com](http://www.indysuperbikes.com/customer/product.php?productid=1678062&cat=0&page=61) USD318.90
       * [advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=159) USD318.98
-      * [motorcyclehear.com](http://www.motorcyclegear.com/parts/all_other_exhausts/triumph/leo_vince_/triumph_tiger_800xc_2011_lv_one_evo_ii_slip_on_exhaust.html) USD318.99
+      * [motorcyclegear.com](http://www.motorcyclegear.com/parts/all_other_exhausts/triumph/leo_vince_/triumph_tiger_800xc_2011_lv_one_evo_ii_slip_on_exhaust.html) USD318.99
       * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=31384) USD269.78
     * Carbon
       * [revzilla.com](http://www.revzilla.com/motorcycle/leo-vince-lv-one-evo-ii-slip-on-exhaust-triumph-tiger-800-2011-2012) USD409.18
