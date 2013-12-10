@@ -200,6 +200,7 @@
   * Triumph (A9708234)
     * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-aluminum-radiator-guard-kit.html) USD69.99
     * [peterstevens.com.au](http://shop.peterstevens.com.au/A9708234/Tiger-800-Radiator-Guard/pd.php) AUD108.02
+    * [shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger-800xc-aluminum-radiator-guard-kit/) USD71.99
   * COX
     * [surfsidemoto.com](http://www.surfsidemoto.com/store/product/COX536237.html) USD84.95
 * Power Commander V
@@ -209,7 +210,8 @@
   * TKC 80
 * Heated grips
   * Triumph (A9638058)
-    [shop.peterstevens.com.au](http://shop.peterstevens.com.au/A9638058/Tiger-800-Heated-Grip-Kit/pd.php) AUD270.04
+    * [shop.peterstevens.com.au](http://shop.peterstevens.com.au/A9638058/Tiger-800-Heated-Grip-Kit/pd.php) AUD270.04
+    * [shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger800xcheated-grip-kit/) USD224.99
 * Swingarm spools
   * R&G Cotton Reel
     * [twistedthrottle.com](http://www.twistedthrottle.com/r-g-cotton-reel-swingarm-spools-for-triumph-tiger-800-800xc-11-mz-1000s) USD33.99
@@ -227,6 +229,7 @@
 * Pegs  
   * Pivot Pegz Mark 3
     * [revzilla.com](http://www.revzilla.com/motorcycle/pivot-pegz-mark-3-pivot-pegs-triumph-tiger-800xc) USD169.95
+    * [adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?products_id=1301) AUD239.00
   * SW Motech
     * [motorradgarage.com.au](https://www.motorradgarage.com.au/foot-peg-kit-on-road-off-road-triumph-tiger-800-800xc-and-explorer-1200) AUD159.00
     * [twistedthrottle.com](http://www.twistedthrottle.com/sw-motech-on-road-off-road-footpegs-triumph-tiger-800-800xc-11-explorer-1200-12) USD147.98
