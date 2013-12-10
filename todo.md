@@ -79,9 +79,16 @@
       * [bikebandit.com](http://www.bikebandit.com/baja-designs-mini-stalk-l-e-d-turn-signals?m=155146) USD47.95
       * [amazon.com](http://www.amazon.com/Baja-Designs-Stalk-Signals-60-3028/dp/B000WJ9NBQ) USD44.62
 * LED lights
-  * Denali DM1
+  * Denali DM
     * [mishacycles.com](https://mishacycles.com/store/Denali-DM1-Micro-Single-Intensity-LED-Lighting-Kit-with-Full-Wiring-Harness-and-M8-Mount.html) USD187.99
     * [twistedthrottle.com](http://www.twistedthrottle.com/denali-dm1-micro-single-intensity-led-lighting-kit-with-full-wiring-harness-and-m8-mount) USD234.99
+  * Denali DX
+    * [twistedthrottle.com](http://www.twistedthrottle.com/denali-xtreme-spot-dual-intensity-led-headlight-kit-with-5-amp-fuse) USD395.99
+  * Denali D2
+    * [mishacycles.com](https://mishacycles.com/store/Denali-D2D-Dual_intensity-LED-Lighting-2-Light-Kit-with-Full-Wiring-Harness-and-M8-Mount.html) USD328.49
+    * [twistedthrottle](http://www.twistedthrottle.com/denali-d2d-dual-intensity-led-lighting-2-light-kit-with-full-wiring-harness-and-m8-mount) USD364.99
+  * Denali D1
+    * [twistedthrottle.com](http://www.twistedthrottle.com/denali-d1-led-lighting-single-pod-with-euro-driving-beam-lens) USD124.99
   * BajaDesigns Squadron
     * [_Baja Designs_](http://www.advrider.com/forums/showthread.php?t=896592)
     * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=498003) USD679.95
