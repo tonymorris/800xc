@@ -5,6 +5,13 @@
 * Exhaust 
   * Barrett
     * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-gallery.html) [AUD495.00](http://www.barrettexhausts.com.au/triumph-shop.html)
+  * Scorpion
+    * Stainless
+      * [revzilla.com](http://www.revzilla.com/motorcycle/scorpion-factory-oval-slip-on-exhaust-triumph-tiger-800-2011-2013) USD386.10
+    * Carbon
+      * [revzilla.com](http://www.revzilla.com/motorcycle/scorpion-factory-oval-slip-on-exhaust-triumph-tiger-800-2011-2013) USD449.10
+    * Titanium
+      * [revzilla.com](http://www.revzilla.com/motorcycle/scorpion-factory-oval-slip-on-exhaust-triumph-tiger-800-2011-2013) USD449.10
   * Leo Vince LV-One EVO II Slip-On
     * Stainless
       * [revzilla.com](http://www.revzilla.com/motorcycle/leo-vince-lv-one-evo-ii-slip-on-exhaust-triumph-tiger-800-2011-2012) USD318.98
