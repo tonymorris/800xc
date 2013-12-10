@@ -64,7 +64,7 @@
 * Air filter
   * K&N (TB-8011)
     * [motorcyclegear.com](http://www.motorcyclegear.com/parts/air_filters/triumph/k&n/triumph_tiger_800xc_2011_high_performance_air_filter.html) USD72.99
-  * BMC
+  * BMC (FM632/04)
     * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=23384) USD80.96
     * [speedaddictcycles ebay](http://www.ebay.com.au/itm/BMC-Standard-Air-Filter-Triumph-Tiger-800-Tiger-800-XC-2011-2012-/190788855860) USD67.15
 * Panniers
