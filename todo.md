@@ -61,6 +61,12 @@
     * [motorcyclegear.com](http://www.motorcyclegear.com/parts/exhausts/triumph/yoshimura/triumph_tiger_800_xc_2011_rs4_slip_on_exhaust.html) USD349.99
     * [powersports111 ebay](http://www.ebay.com.au/itm/TRIUMPH-TIGER-800XC-2011-2012-2013-YOSHIMURA-RS4-SO-SS-CT-EXHAUST-1980-02D520-/161083419100) USD359.50
     * [motorcycle-superstore.co.uk](http://www.motorcycle-superstore.co.uk/23795/i/yoshimura-rs-4-slip-on-exhaust-2013-triumph-tiger-800xc-parts) GBP214.97
+* Air filter
+  * K&N (TB-8011)
+    * [motorcyclegear.com](http://www.motorcyclegear.com/parts/air_filters/triumph/k&n/triumph_tiger_800xc_2011_high_performance_air_filter.html) USD72.99
+  * BMC
+    * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=23384) USD80.96
+    * [speedaddictcycles ebay](http://www.ebay.com.au/itm/BMC-Standard-Air-Filter-Triumph-Tiger-800-Tiger-800-XC-2011-2012-/190788855860) USD67.15
 * Panniers
   * Barrett
     * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= AUD895.00](http://www.barrettexhausts.com.au/panniers.html)
