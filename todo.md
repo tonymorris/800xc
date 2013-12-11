@@ -121,12 +121,6 @@
     * [freedom-cyclenv.com](http://shop.freedomcyclenv.com/triumph-auxiliary-fog-light-kit/) USD316.62
   * Triumph LED (A9838017)
     * [bevanmotorcycle ebay](http://www.ebay.com/itm/GENUINE-TRIUMPH-TIGER-800-LED-FOG-LIGHT-KIT-A9838017-299-FREE-POST-UK-/370944744723?pt=UK_Motorcycle_Parts_13&hash=item565e079d13) GBP299.00
-* Triumph Switch Mount Kit (A9638086)
-  * ??? _for when running Triumph LED fog lights and heated grips (A9638048 but not A9638058)_
-  * [triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Tiger/Switch-Mount-Kit/9963075/A9638086.html) USD29.99
-  * [pure-triumph.com](http://www.pure-triumph.com/p-2872-triumph-tiger-explorer-switch-mounting-bracket-a9638086.aspx) USD29.99
-  * [shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger-explorer-switch-mounting-kit/) USD26.99
-  * [milwaukee-triumph.com](http://milwaukeetriumph.com/products-page/accessories/triumph-adventure-tiger-explorer-switch-mounting-kit/) USD28.99
 * UHF 
   * Push to talk switch
   * SR10 integration
@@ -239,9 +233,11 @@
   * Heidenau K60
   * TKC 80
 * Heated grips
-  * Triumph (A9638058)
-    * [shop.peterstevens.com.au](http://shop.peterstevens.com.au/A9638058/Tiger-800-Heated-Grip-Kit/pd.php) AUD270.04
-    * [shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger800xcheated-grip-kit/) USD224.99
+  * Triumph (A9638120) [^1]
+    * [shorelinemotorcycles] USD182.12
+* Headed grips subharness (A9830053)
+  * _Required for heated grips (A9638120) and VIN >611411_
+  * [shorelinemotorcycles] USD4.77
 * Swingarm spools
   * R&G Cotton Reel
     * [twistedthrottle.com](http://www.twistedthrottle.com/r-g-cotton-reel-swingarm-spools-for-triumph-tiger-800-800xc-11-mz-1000s) USD33.99
@@ -303,3 +299,5 @@
   * 20131207
   * AUD40.00
   * tank pad
+
+[^1]: Requires sub harness for VIN >611411
