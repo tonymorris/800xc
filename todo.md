@@ -66,6 +66,8 @@
       * [fuelexhausts.com](http://www.fuelexhausts.com/details.cfm?ProdID=2424&category_ID=7&scndctgry_ID=157) GBP190.00
   * MTC Exhausts
     * [mtc_exhausts ebay](http://stores.ebay.co.uk/MTC-Motorcycle-Exhausts/Triumph-/_i.html?_fsub=18311271&_sid=162109953&_trksid=p4634.c0.m322) GBP235.00
+  * Quill
+    * [quillexhausts.com](http://www.quillexhausts.com/catalogue/Tiger.html)
 * Air filter
   * K&N (TB-8011)
     * [motorcyclegear.com](http://www.motorcyclegear.com/parts/air_filters/triumph/k&n/triumph_tiger_800xc_2011_high_performance_air_filter.html) USD72.99
