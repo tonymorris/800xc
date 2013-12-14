@@ -149,6 +149,8 @@
   * Knock-off Pazzo
     * [motorcyclepartssale ebay](http://www.ebay.com.au/itm/CNC-Brake-Clutch-Levers-Triumph-TIGER-1050-2007-2012-TIGER-800-XC-2011-2012-/270942394687) AUD31.99
 * Handguards 
+  * Cycra Probend Bars w/ Plastic Bumpers (Item# 7005-02)
+    * [store.cycraracing.com](http://store.cycraracing.com/prbawbu.html) USD49.95
   * Cycra Pro Bend Bar Pack
     * U-Clamp 08+ Pro Taper/KTM OEM #1156-02
       * [store.cycraracing.com](http://store.cycraracing.com/uclhamos.html) USD44.95
@@ -168,6 +170,7 @@
     * NextGen
       * [highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=NexGen_00)
   * Sicass handguard turn signals
+    * _parts 22-106, 22-300, 22-206_
     * [sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) USD56.98
 * Handlebars 
   * ROX Handle Bar Adjustable / Pivoting Risers
