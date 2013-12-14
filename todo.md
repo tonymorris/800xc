@@ -72,6 +72,8 @@
 * Panniers
   * Barrett
     * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= AUD895.00](http://www.barrettexhausts.com.au/panniers.html)
+  * Micatech
+    * [micateach.net](http://micatech.net/on-the-road)
 * Turn signals
   * Front
     * Sicass
