@@ -68,6 +68,7 @@
   * [mtc_exhausts ebay](http://stores.ebay.co.uk/MTC-Motorcycle-Exhausts/Triumph-/_i.html?_fsub=18311271&_sid=162109953&_trksid=p4634.c0.m322) GBP235.00
 * Quill
   * [quillexhausts.com](http://www.quillexhausts.com/catalogue/Tiger.html)
+
 ### Air filter
 * K&N (TB-8011)
   * [motorcyclegear.com](http://www.motorcyclegear.com/parts/air_filters/triumph/k&n/triumph_tiger_800xc_2011_high_performance_air_filter.html) USD72.99
@@ -76,11 +77,13 @@
   * [speedaddictcycles ebay](http://www.ebay.com.au/itm/BMC-Standard-Air-Filter-Triumph-Tiger-800-Tiger-800-XC-2011-2012-/190788855860) USD67.15
   * [linkint.com.au](http://www.linkint.com.au/Product/69M-632-04_item.html) AUD124.95
   * [speedaddictcycles.com](http://www.speedaddictcycles.com/product/LV-FM632-04/BMC-Standard-Air-Filter-Triumph-Tiger-800Tiger-800-XC-2011-2012.html) USD67.15
+
 ### Panniers
 * Barrett
   * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= AUD895.00](http://www.barrettexhausts.com.au/panniers.html)
 * Micatech
   * [micateach.net](http://micatech.net/on-the-road)
+
 ### Turn signals
 * Front
   * Sicass
@@ -104,6 +107,7 @@
     * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=603028) USD52.95
     * [bikebandit.com](http://www.bikebandit.com/baja-designs-mini-stalk-l-e-d-turn-signals?m=155146) USD47.95
     * [amazon.com](http://www.amazon.com/Baja-Designs-Stalk-Signals-60-3028/dp/B000WJ9NBQ) USD44.62
+
 ### LED lights
 * Denali DM
   * [mishacycles.com](https://mishacycles.com/store/Denali-DM1-Micro-Single-Intensity-LED-Lighting-Kit-with-Full-Wiring-Harness-and-M8-Mount.html) USD187.99
@@ -120,6 +124,7 @@
   * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=498003) USD679.95
 * BajaDesigns SII
   * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=488003) USD459.95
+
 ### Fog Lights
 * Hawk LED Fog light kit
   * [motorradgarage.com.au](https://www.motorradgarage.com.au/hawk-led-off-road-light-kit) AUD449.00
@@ -130,20 +135,26 @@
   * [freedom-cyclenv.com](http://shop.freedomcyclenv.com/triumph-auxiliary-fog-light-kit/) USD316.62
 * Triumph LED (A9838017)
   * [bevanmotorcycle ebay](http://www.ebay.com/itm/GENUINE-TRIUMPH-TIGER-800-LED-FOG-LIGHT-KIT-A9838017-299-FREE-POST-UK-/370944744723?pt=UK_Motorcycle_Parts_13&hash=item565e079d13) GBP299.00
+
 ### UHF 
 * Push to talk switch
 * SR10 integration
+
 ### GPS 
 * Mount
 * Power
+
 ### Phone
 * Mount
 * Power
+
 ### 12V points 
 * USB
 * DIN
+
 ### Rear suspension
 * MPE suspension
+
 ### Levers 
 * ASV C/5
   * [calsport-1 ebay](http://www.ebay.com.au/itm/Triumph-Tiger-800-XC-ASV-C5-Brake-Clutch-Adjustable-Levers-/141029146077) AUD274.74
@@ -157,6 +168,7 @@
   * [pureperformancecycles.com](http://www.pureperformancecycles.com/Products/Controls/Pazzo-Levers/Pazzo-Lever-Set-fits--07--11-Tiger-1050---800-XC/) USD168.99
 * Knock-off Pazzo
   * [motorcyclepartssale ebay](http://www.ebay.com.au/itm/CNC-Brake-Clutch-Levers-Triumph-TIGER-1050-2007-2012-TIGER-800-XC-2011-2012-/270942394687) AUD31.99
+
 ### Handguards 
 * Cycra Probend Bars w/ Plastic Bumpers (Item# 7005-02)
   * [store.cycraracing.com](http://store.cycraracing.com/prbawbu.html) USD49.95
@@ -181,6 +193,7 @@
 * Sicass handguard turn signals
   * _parts 22-106, 22-300, 22-206_
   * [sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) USD56.98
+
 ### Handlebars 
 * ROX Handle Bar Adjustable / Pivoting Risers
   * [advdesigns.com](http://www.advdesigns.com/roxhabarpiri.html) USD87.00
@@ -192,6 +205,7 @@
   * [jcsmotorcycles.com.au](http://www.jcsmotorcycles.com.au/index.php?route=product/product&sort=p.price&order=ASC&manufacturer_id=17&product_id=697) AUD79.00
   * [ollyhands0 ebay](http://www.ebay.com.au/itm/TRIUMPH-Tiger-800xc-Handle-Bar-Riser-20mm-Rise-Anodized-Silver-/360498193724) GBP44.99
   * [advdepot.com](http://advdepot.com/sw-motech-handlebar-risers-tiger-explorer.html) USD47.99
+
 ### Crash bars / Engine guard 
 * Hepco-Becker
   * [advdepot.com](http://advdepot.com/hepco-becker-engine-guard-triumph-tiger-800-xc.html) USD249.99
@@ -205,6 +219,7 @@
 * Touratech or cheaper
 * Triumph (A9788004)
   * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-engine-protection-bars.html) USD199.99
+
 ### Skid plate 
 * AltRider
   * [altrider.com](http://www.altrider.com/altrider-skid-plate-for-the-triumph-tiger-800xc/pid/702) USD298.72
@@ -223,9 +238,11 @@
   [adventure-spec.com](http://www.adventure-spec.com/default/adventure-spec-bashplate-triumph-tiger-800-and-800xc-1.html) GBP180.00
 * Triumph (A9708233)
   * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-sump-guard.html) USD199.99
+
 ### Headlight protector
 * Hepco-Becker
   * [motomachines](http://www.motomachines.com/Headlight-Grille--Triumph-Tiger-800-XC_p_1561.html) USD111.83
+
 ### Radiator guard (Metal)
 * AltRider
   * [altrider.com](http://www.altrider.com/altrider-radiator-guard-for-triumph-tiger-800xc/pid/712) USD131.22
@@ -239,17 +256,22 @@
   * [shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger-800xc-aluminum-radiator-guard-kit/) USD71.99
 * COX
   * [surfsidemoto.com](http://www.surfsidemoto.com/store/product/COX536237.html) USD84.95
+
 ### Power Commander V
 * [motorcyclegear.com](http://www.motorcyclegear.com/parts/power_commander_and_juice_box_pro/triumph/dynojet/triumph_tiger_800xc_2011_power_commander_v.html) USD322.99
+
 ### Tyres
 * Heidenau K60
 * TKC 80
+
 ### Heated grips
 * Triumph (A9638120) [^1]
   * [shorelinemotorcycles] USD182.12
+
 ### Heated grips subharness (A9830053)
 * _Required for heated grips (A9638120) and VIN >611411_
 * [shorelinemotorcycles] USD4.77
+
 ### Swingarm spools
 * R&G Cotton Reel
   * [twistedthrottle.com](http://www.twistedthrottle.com/r-g-cotton-reel-swingarm-spools-for-triumph-tiger-800-800xc-11-mz-1000s) USD33.99
@@ -262,8 +284,10 @@
   * [shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger800xc-paddock-stand-bobbins/) USD53.98
   * [jacklilley.com](http://www.jacklilley.com/buy/Triumph-Paddock-Stand-Bobbins---Type-2/A9640023.htm#.Up7X3EPTYak) GBP45.98
   * [triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Paddock-Stand-Bobbin-Kit--Type-2/9963081/A9640023.html) USD59.98
+
 ### Fuel tank 
 * [Safari](http://www.safaritanks.com.au/home/vmchk/18-Triumph/View-all-products.html) AUD925
+
 ### Pegs  
 * Pivot Pegz Mark 3
   * [revzilla.com](http://www.revzilla.com/motorcycle/pivot-pegz-mark-3-pivot-pegs-triumph-tiger-800xc) USD169.95
@@ -273,23 +297,31 @@
   * [twistedthrottle.com](http://www.twistedthrottle.com/sw-motech-on-road-off-road-footpegs-triumph-tiger-800-800xc-11-explorer-1200-12) USD147.98
   * [advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=380) USD147.98
   * [squaredeals-ltd.co.uk](http://www.squaredeals-ltd.co.uk/tiger-800--800xc-footpeg-lowering--road-off-road-kit-frs1101110100s-14809-p.asp) GBP89.99
+
 ### Screen
+
 ### Seat?
+
 ### ![Purchased 20131205 from uniflow](tick.png) ~~Pre-filter (Unifilter)~~
 * ~~[_NU3703 for 800XC, NU3704 for 800XC ABS_](http://www.tiger800.co.uk/index.php?topic=9468.0)~~
 * ~~_Our part# NU 3704 fits both the Abs and non Abs models. -- Myles Gooch, Manager, Unifilter Australia_~~
 * ~~Unifilter~~
   * ~~[uniflow.com.au](http://www.uniflow.com.au/contents/en-us/p5646.html) AUD24.75 (AUD7.00 shipping)~~
+
 ### Windshield
 * Madstad [Explorer]
+
 ### Bypass kickstand cut-out
+
 ### Replace Hex bolts with Torx
+
 ### SPOT 2 GPS Messenger
 * [ja-gps.com.au](http://www.ja-gps.com.au/SPOT/spot-satellite-gps-messenger-v2/) AUD155
 * [USD115/year subscription](http://au.findmespot.com/en/index.php?cid=103)
   * 200 annual check-in/OK USD0.10 thereafter
   * +USD49.99/year send to and save location
 * RAM mount
+
 ### Cat. Eliminator
 
 ## Legend
