@@ -309,5 +309,9 @@
   * 20131207
   * AUD40.00
   * tank pad
+* Tony -> Jason
+  * 20131212
+  * USD213.88 + shipping
+  * Heated grips, sub harness, swingarm spools
 
 [^1]: Requires sub harness for VIN >611411
