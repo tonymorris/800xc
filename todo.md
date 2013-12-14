@@ -155,7 +155,7 @@
 ### Rear suspension
 * MPE suspension
 
-### * ![Purchased](tick.png)~~Levers~~
+### ![Purchased](tick.png)~~Levers~~
 * ~~ASV C/5~~
   * ~~[calsport-1 ebay](http://www.ebay.com.au/itm/Triumph-Tiger-800-XC-ASV-C5-Brake-Clutch-Adjustable-Levers-/141029146077) AUD274.74~~
 * ~~ASV F3~~
