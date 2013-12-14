@@ -44,15 +44,15 @@
     * [surfsidemoto.com](http://www.surfsidemoto.com/store/product/AKR18112489.html) USD779.95
     * [discount-moto-direct.com](http://www.discount-moto-direct.com/akrapovic-slip-on-exhaust-titanium-triumph-tiger-800xc-2011-2013/#.Up7FlUPTYak) USD735.96
   * Remus
-    * Stainless
+    * Stainless (01-420-5850-00)
       * [motorcycle-luggage-shop.com](http://www.motorcycle-luggage-shop.com/Motorcycle_Brand/50837__Triumph_Tiger_800_XC_Exhaust/10190__REMUS_HEXACONE_muffler_stainless_steel_slip_on_with_steel_core_includes_connecting_tube_Triumph_800800XC.html) GBP539.00
       * [ppl-1 ebay](http://www.ebay.co.uk/itm/Remus-Stainless-Hexacone-Slip-On-Exhaust-Triumph-Tiger-800-800XC-XC-11-12-13-/261344954644?pt=UK_Motorcycle_Parts_13&hash=item3cd95f8914) GBP354.95
       * [bici.co.ok](http://www.bici.co.uk/Shop/Motorcycle-Exhausts/Triumph-Exhausts/36598-Triumph-Tiger-800-Remus-Motorcycle-Exhausts-AND-Full-Systems.html) GBP375.00
-    * Titanium
+    * Titanium (01-420-5851-0)
       * [motorcycle-luggage-shop.com](http://www.motorcycle-luggage-shop.com/Touratech/51699__Triumph_Tiger_800_XC_Exhaust/10191__REMUS_HEXACONE_muffler_Titanium_slip_on_with_stainless_steel_core_includes_connecting_tube_all_street_legal_for_Triumph_800800XC.html) GBP599.00
       * [ppl-1 ebay](http://www.ebay.co.uk/itm/Remus-Titanium-Hexacone-Slip-On-Exhaust-Triumph-Tiger-800-800XC-XC-11-12-13-/370955230619?pt=UK_Motorcycle_Parts_13&hash=item565ea79d9b) GBP395.95
       * [bici.co.uk](http://www.bici.co.uk/Shop/Motorcycle-Exhausts/Triumph-Exhausts/36598-Triumph-Tiger-800-Remus-Motorcycle-Exhausts-AND-Full-Systems.html) GBP420.00
-    * Carbon
+    * Carbon (01-420-5852-0)
       * [motorcycle-luggage-shop.com](http://www.motorcycle-luggage-shop.com/Touratech/51699__Triumph_Tiger_800_XC_Exhaust/10192__REMUS_HEXACONE_muffler_Carbon_slip_on_with_stainless_steel_core_includes_connecting_tube_all_street_legal_for_Triumph_800800XC.html) GBP639.00
       * [ppl-1 ebay](http://www.ebay.co.uk/itm/Remus-Carbon-Fibre-Hexacone-Slip-On-Exhaust-Triumph-Tiger-800-800XC-XC-11-13-/261332182988?pt=UK_Motorcycle_Parts_13&hash=item3cd89ca7cc) GBP405.95
       * [bici.co.uk](http://www.bici.co.uk/Shop/Motorcycle-Exhausts/Triumph-Exhausts/36598-Triumph-Tiger-800-Remus-Motorcycle-Exhausts-AND-Full-Systems.html) GBP430.00
@@ -61,6 +61,11 @@
     * [motorcyclegear.com](http://www.motorcyclegear.com/parts/exhausts/triumph/yoshimura/triumph_tiger_800_xc_2011_rs4_slip_on_exhaust.html) USD349.99
     * [powersports111 ebay](http://www.ebay.com.au/itm/TRIUMPH-TIGER-800XC-2011-2012-2013-YOSHIMURA-RS4-SO-SS-CT-EXHAUST-1980-02D520-/161083419100) USD359.50
     * [motorcycle-superstore.co.uk](http://www.motorcycle-superstore.co.uk/23795/i/yoshimura-rs-4-slip-on-exhaust-2013-triumph-tiger-800xc-parts) GBP214.97
+  * Fuel Exhausts
+    * Plain Titanium Oval
+      * [fuelexhausts.com](http://www.fuelexhausts.com/details.cfm?ProdID=2424&category_ID=7&scndctgry_ID=157) GBP190.00
+  * MTC Exhausts
+    * [mtc_exhausts ebay](http://stores.ebay.co.uk/MTC-Motorcycle-Exhausts/Triumph-/_i.html?_fsub=18311271&_sid=162109953&_trksid=p4634.c0.m322) GBP235.00
 * Air filter
   * K&N (TB-8011)
     * [motorcyclegear.com](http://www.motorcyclegear.com/parts/air_filters/triumph/k&n/triumph_tiger_800xc_2011_high_performance_air_filter.html) USD72.99
