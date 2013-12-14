@@ -125,16 +125,16 @@
 * BajaDesigns SII
   * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=488003) USD459.95
 
-### Fog Lights
-* Hawk LED Fog light kit
-  * [motorradgarage.com.au](https://www.motorradgarage.com.au/hawk-led-off-road-light-kit) AUD449.00
-* Triumph Halogen (A9838011)
-  * [_Xenon Yellow Halogen Bulb_](http://www.amazon.com/gp/product/B002E2WMVW/ref=oh_details_o05_s00_i02?ie=UTF8&psc=1)
-  * [pure-triumph.com](http://www.pure-triumph.com/en-au/p-2587-triumph-tiger-800800xc-fog-light-kit-a9838011.aspx) USD316.62
-  * [bikesnstuffcheap ebay](http://www.ebay.com/itm/NEW-GENUINE-TRIUMPH-TIGER-800-ADVENTURE-FOG-LIGHT-KIT-WAS-329-99-NOW-289-00/281213504513?_trksid=p2047675.m1850&_trkparms=aid%3D222002%26algo%3DSIC.FIT%26ao%3D1%26asc%3D11%26meid%3D3203817211123461259%26pid%3D100011%26prg%3D1005%26rk%3D1%26rkt%3D5%26sd%3D281028845272%26) USD289.00
-  * [freedom-cyclenv.com](http://shop.freedomcyclenv.com/triumph-auxiliary-fog-light-kit/) USD316.62
-* Triumph LED (A9838017)
-  * [bevanmotorcycle ebay](http://www.ebay.com/itm/GENUINE-TRIUMPH-TIGER-800-LED-FOG-LIGHT-KIT-A9838017-299-FREE-POST-UK-/370944744723?pt=UK_Motorcycle_Parts_13&hash=item565e079d13) GBP299.00
+### * ![Purchased](tick.png)~~Fog Lights~~
+* ~~Hawk LED Fog light kit~~
+  * ~~[motorradgarage.com.au](https://www.motorradgarage.com.au/hawk-led-off-road-light-kit) AUD449.00~~
+* ~~Triumph Halogen (A9838011)~~
+  * ~~[_Xenon Yellow Halogen Bulb_](http://www.amazon.com/gp/product/B002E2WMVW/ref=oh_details_o05_s00_i02?ie=UTF8&psc=1)~~
+  * ~~[pure-triumph.com](http://www.pure-triumph.com/en-au/p-2587-triumph-tiger-800800xc-fog-light-kit-a9838011.aspx) USD316.62~~
+  * ~~[bikesnstuffcheap ebay](http://www.ebay.com/itm/NEW-GENUINE-TRIUMPH-TIGER-800-ADVENTURE-FOG-LIGHT-KIT-WAS-329-99-NOW-289-00/281213504513?_trksid=p2047675.m1850&_trkparms=aid%3D222002%26algo%3DSIC.FIT%26ao%3D1%26asc%3D11%26meid%3D3203817211123461259%26pid%3D100011%26prg%3D1005%26rk%3D1%26rkt%3D5%26sd%3D281028845272%26) USD289.00~~
+  * ~~[freedom-cyclenv.com](http://shop.freedomcyclenv.com/triumph-auxiliary-fog-light-kit/) USD316.62~~
+* ~~Triumph LED (A9838017)~~
+  * ~~[bevanmotorcycle ebay](http://www.ebay.com/itm/GENUINE-TRIUMPH-TIGER-800-LED-FOG-LIGHT-KIT-A9838017-299-FREE-POST-UK-/370944744723?pt=UK_Motorcycle_Parts_13&hash=item565e079d13) GBP299.00~~
 
 ### UHF 
 * Push to talk switch
@@ -155,19 +155,19 @@
 ### Rear suspension
 * MPE suspension
 
-### Levers 
-* ASV C/5
-  * [calsport-1 ebay](http://www.ebay.com.au/itm/Triumph-Tiger-800-XC-ASV-C5-Brake-Clutch-Adjustable-Levers-/141029146077) AUD274.74
-* ASV F3
-* Pazzo
-  * solomotoparts.com
-    * [Clutch](http://www.solomotoparts.com/Pazzo-Lever-Clutch-for-Tiger-800XC-11-13/) USD94.99
-    * [Brake](http://www.solomotoparts.com/Pazzo-Lever-Brake-for-Tiger-800XC-11-13/) USD94.99
-    * [Both](http://www.solomotoparts.com/Pazzo-Levers-Brake-and-Clutch-for-Tiger-800XC-11-13/) USD168.99
-  * [pazzoracing.com.au](http://www.pazzoracing.com.au/contents/en-uk/p7884_Tiger_800_XC_%2811-12%29_Pazzo_Lever_Set_.html) AUD229.00
-  * [pureperformancecycles.com](http://www.pureperformancecycles.com/Products/Controls/Pazzo-Levers/Pazzo-Lever-Set-fits--07--11-Tiger-1050---800-XC/) USD168.99
-* Knock-off Pazzo
-  * [motorcyclepartssale ebay](http://www.ebay.com.au/itm/CNC-Brake-Clutch-Levers-Triumph-TIGER-1050-2007-2012-TIGER-800-XC-2011-2012-/270942394687) AUD31.99
+### * ![Purchased](tick.png)~~Levers~~
+* ~~ASV C/5~~
+  * ~~[calsport-1 ebay](http://www.ebay.com.au/itm/Triumph-Tiger-800-XC-ASV-C5-Brake-Clutch-Adjustable-Levers-/141029146077) AUD274.74~~
+* ~~ASV F3~~
+* ~~Pazzo~~
+  * ~~solomotoparts.com~~
+    * ~~[Clutch](http://www.solomotoparts.com/Pazzo-Lever-Clutch-for-Tiger-800XC-11-13/) USD94.99~~
+    * ~~[Brake](http://www.solomotoparts.com/Pazzo-Lever-Brake-for-Tiger-800XC-11-13/) USD94.99~~
+    * ~~[Both](http://www.solomotoparts.com/Pazzo-Levers-Brake-and-Clutch-for-Tiger-800XC-11-13/) USD168.99~~
+  * ~~[pazzoracing.com.au](http://www.pazzoracing.com.au/contents/en-uk/p7884_Tiger_800_XC_%2811-12%29_Pazzo_Lever_Set_.html) AUD229.00~~
+  * ~~[pureperformancecycles.com](http://www.pureperformancecycles.com/Products/Controls/Pazzo-Levers/Pazzo-Lever-Set-fits--07--11-Tiger-1050---800-XC/) USD168.99~~
+* ~~Knock-off Pazzo~~
+  * ~~[motorcyclepartssale ebay](http://www.ebay.com.au/itm/CNC-Brake-Clutch-Levers-Triumph-TIGER-1050-2007-2012-TIGER-800-XC-2011-2012-/270942394687) AUD31.99~~
 
 ### Handguards 
 * Cycra Probend Bars w/ Plastic Bumpers (Item# 7005-02)
@@ -264,13 +264,13 @@
 * Heidenau K60
 * TKC 80
 
-### Heated grips
-* Triumph (A9638120) [^1]
-  * shorelinemotorcycles.com USD182.12
+### ![Purchased](tick.png)~~Heated grips~~
+* ~~Triumph (A9638120) [^1]~~
+  * ~~shorelinemotorcycles.com USD182.12~~
 
-### Heated grips subharness (A9830053)
-* _Required for heated grips (A9638120) and VIN >611411_
-* shorelinemotorcycles.com USD4.77
+### ![Purchased](tick.png)~~Heated grips subharness (A9830053)~~
+* ~~_Required for heated grips (A9638120) and VIN >611411_~~
+* ~~shorelinemotorcycles.com USD4.77~~
 
 ### Swingarm spools
 * R&G Cotton Reel
