@@ -266,11 +266,11 @@
 
 ### Heated grips
 * Triumph (A9638120) [^1]
-  * [shorelinemotorcycles] USD182.12
+  * shorelinemotorcycles.com USD182.12
 
 ### Heated grips subharness (A9830053)
 * _Required for heated grips (A9638120) and VIN >611411_
-* [shorelinemotorcycles] USD4.77
+* shorelinemotorcycles.com USD4.77
 
 ### Swingarm spools
 * R&G Cotton Reel
