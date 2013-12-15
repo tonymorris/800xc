@@ -142,14 +142,17 @@
 
 ### GPS 
 * Mount
-* Power
 
 ### Phone
 * Mount
-* Power
 
-### 12V points 
-* USB
+### Power points 
+* 3BR USB
+  * [TAPP 150-0056-01](http://www.3brpowersports.com/products.php) USD44.95
+  * [PANEL TAPP 150-0057-01](http://www.3brpowersports.com/products.php) USD44.95
+  * [TAPP CAPPED RedBand Micro USB Cable RA Right 9 inch 202-0056-09](http://www.3brpowersports.com/products_Red_Band_USB.php) USD15.95
+  * [TAPP CAPPED RedBand Micro USB Cable RA Left 9 inch 202-0060-09](http://www.3brpowersports.com/products_Red_Band_USB.php) USD15.95
+  * [TAPP CAPPED RedBand GPS Power USB Cable RA Up 9 inch 202-0064-09](http://www.3brpowersports.com/products_Red_Band_USB.php) USD21.95
 * DIN
 
 ### Rear suspension
