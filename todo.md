@@ -275,18 +275,18 @@
 * ~~_Required for heated grips (A9638120) and VIN >611411_~~
 * ~~shorelinemotorcycles.com USD4.77~~
 
-### Swingarm spools
-* R&G Cotton Reel
-  * [twistedthrottle.com](http://www.twistedthrottle.com/r-g-cotton-reel-swingarm-spools-for-triumph-tiger-800-800xc-11-mz-1000s) USD33.99
-  * [twistedthrottle.ca](http://www.twistedthrottle.ca/r-g-cotton-reel-swingarm-spools-for-triumph-tiger-800-800xc-11-mz-1000s) USD34.54
-* Triumph (A9640023)
-  * [pure-triumph.com](http://www.pure-triumph.com/en-au/p-2904-triumph-tiger-800-paddock-stand-bobbins-a9640023.aspx) USD59.98
-  * [pro-italia.com](http://store.proitalia.com/triumph-tiger-800-800xc-rear-stand-spools-p-159785.html) USD59.98
-  * [british-customs.com](http://www.british-customs.com/triumph-paddock-stand-bobbins-6286.html) USD59.98
-  * [2wheelpros.com](http://www.2wheelpros.com/oem-parts/triumph-paddock-std-bobbin-kit-type-2-a9640023-part.html) USD56.38
-  * [shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger800xc-paddock-stand-bobbins/) USD53.98
-  * [jacklilley.com](http://www.jacklilley.com/buy/Triumph-Paddock-Stand-Bobbins---Type-2/A9640023.htm#.Up7X3EPTYak) GBP45.98
-  * [triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Paddock-Stand-Bobbin-Kit--Type-2/9963081/A9640023.html) USD59.98
+### ![Purchased](tick.png)~~Swingarm spools~~
+* ~~R&G Cotton Reel~~
+  * ~~[twistedthrottle.com](http://www.twistedthrottle.com/r-g-cotton-reel-swingarm-spools-for-triumph-tiger-800-800xc-11-mz-1000s) USD33.99~~
+  * ~~[twistedthrottle.ca](http://www.twistedthrottle.ca/r-g-cotton-reel-swingarm-spools-for-triumph-tiger-800-800xc-11-mz-1000s) USD34.54~~
+* ~~Triumph (A9640023)~~
+  * ~~[pure-triumph.com](http://www.pure-triumph.com/en-au/p-2904-triumph-tiger-800-paddock-stand-bobbins-a9640023.aspx) USD59.98~~
+  * ~~[pro-italia.com](http://store.proitalia.com/triumph-tiger-800-800xc-rear-stand-spools-p-159785.html) USD59.98~~
+  * ~~[british-customs.com](http://www.british-customs.com/triumph-paddock-stand-bobbins-6286.html) USD59.98~~
+  * ~~[2wheelpros.com](http://www.2wheelpros.com/oem-parts/triumph-paddock-std-bobbin-kit-type-2-a9640023-part.html) USD56.38~~
+  * ~~[shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger800xc-paddock-stand-bobbins/) USD53.98~~
+  * ~~[jacklilley.com](http://www.jacklilley.com/buy/Triumph-Paddock-Stand-Bobbins---Type-2/A9640023.htm#.Up7X3EPTYak) GBP45.98~~
+  * ~~[triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Paddock-Stand-Bobbin-Kit--Type-2/9963081/A9640023.html) USD59.98~~
 
 ### Fuel tank 
 * [Safari](http://www.safaritanks.com.au/home/vmchk/18-Triumph/View-all-products.html) AUD925
