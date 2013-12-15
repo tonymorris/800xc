@@ -1,16 +1,16 @@
 # Transactions
 
 ## Uniflow pre-cleaner
-* Tony paid for Jason
+* uniflow.com
 * Date: 20131205
-* Amount: AUD28.25
+* Jason owes Tony: AUD28.25
 
 ## Triumph tank pad
-* Jason paid for Tony
+* Sunstate Motorcycles, Maroochydore
 * Date: 20131207
-* Amount: AUD40.00
+* Tony owes Jason: AUD40.00
 
 ## Heated grips, sub harness, swingarm spools
-* Tony paid for Jason
+* shorelinemotorsports.com (shared transaction)
 * Date: 20131212
-* Amount: USD213.88 (AUD248.59) from USD803.76 (AUD934.20)
+* Jason owes Tony: USD213.88 (AUD248.59) from a total transaction of USD803.76 (AUD934.20)
