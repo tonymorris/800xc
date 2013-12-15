@@ -340,19 +340,4 @@
 
 * [SW Motech Triumph 800/1050 (2 page PDF)](http://dl.dropbox.com/u/7810909/Triumph_Tiger1050_Tiger800XC.pdf)
 
-## Transactions
-
-* Tony -> Jason
-  * 20131205
-  * AUD28.25
-  * uniflow pre-cleaner
-* Jason -> Tony
-  * 20131207
-  * AUD40.00
-  * tank pad
-* Tony -> Jason
-  * 20131212
-  * USD213.88 + shipping
-  * Heated grips, sub harness, swingarm spools
-
 [^1]: Requires sub harness for VIN >611411
