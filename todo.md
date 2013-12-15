@@ -2,7 +2,16 @@
 
 ## Accessories
 
-### Exhaust 
+### Exhaust
+* ECU map 20650
+  * [tuneecu](http://tuneecu.com/TuneECU_En/)
+  * ![Purchased](tick.png)~~OBD II (On-board Diagnostics) Cable~~
+  * Forums
+    * [tiger800.co.uk](http://www.tiger800.co.uk/index.php?topic=7483.0)
+    * [tiger.co.uk](http://www.tiger800.co.uk/index.php?topic=1739.0)
+    * [triumphrat.net](http://www.triumphrat.net/tiger-800-800xc-mods-and-workshop/233137-tune-for-leovince.html)
+* Triumph Arrow (A9600341)
+  * [shoptriumph.com](http://www.shoptriumph.com/triumph_tiger_800_xc_arrow_slip_on_exhaust_a9600341_c_p1119.htm) USD799.99
 * Barrett
   * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-gallery.html) [AUD495.00](http://www.barrettexhausts.com.au/triumph-shop.html)
 * Scorpion
