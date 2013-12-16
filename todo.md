@@ -275,8 +275,6 @@
   * [shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger-800xc-aluminum-radiator-guard-kit/) USD71.99
 * COX
   * [surfsidemoto.com](http://www.surfsidemoto.com/store/product/COX536237.html) USD84.95
-* SW-Motech
-  * [twistedthrottle](http://www.twistedthrottle.com/sw-motech-aluminum-engine-guard-skidplate-triumph-tiger-800-800xc-11-black-silver) USD252.50
 
 ### Power Commander V
 * [motorcyclegear.com](http://www.motorcyclegear.com/parts/power_commander_and_juice_box_pro/triumph/dynojet/triumph_tiger_800xc_2011_power_commander_v.html) USD322.99
