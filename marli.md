@@ -13,7 +13,7 @@
   * TAPP Capped Cable, RedBand, Smartphone Charging, USB-B Micro Right Angle, RA Left
   * TAPP Capped Red Band Cable, GPS Power, USB Type B Mini
 
-## sicassracing.com
+## sicassracing.com _20131216_
   * 22-106  Clear Lens LED Flex Mount _20131216_
   * 22-300  SICASS Smart Flasher - LED Turn Signal Flasher
   * 22-206  SICASS Black Turn Signal Hand Guard Deflectors
