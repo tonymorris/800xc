@@ -259,6 +259,7 @@
 * AltRider
   * [altrider.com](http://www.altrider.com/altrider-radiator-guard-for-triumph-tiger-800xc/pid/712) USD131.22
   * [advdesigns.com](http://www.advdesigns.com/alragufortrt.html) USD131.22
+  * [revzilla.com](http://www.revzilla.com/motorcycle/altrider-triumph-tiger-800xc-radiator-guard) USD131.22
 * Touratech
 * Rad Guard
   * [radguard.com.au](http://www.radguard.com.au/products/triumph-tiger-800-tiger-800xc-2011-2013-radiator-guards.html) AUD148.00
@@ -274,6 +275,8 @@
   * [shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger-800xc-aluminum-radiator-guard-kit/) USD71.99
 * COX
   * [surfsidemoto.com](http://www.surfsidemoto.com/store/product/COX536237.html) USD84.95
+* SW-Motech
+  * [twistedthrottle](http://www.twistedthrottle.com/sw-motech-aluminum-engine-guard-skidplate-triumph-tiger-800-800xc-11-black-silver) USD252.50
 
 ### Power Commander V
 * [motorcyclegear.com](http://www.motorcyclegear.com/parts/power_commander_and_juice_box_pro/triumph/dynojet/triumph_tiger_800xc_2011_power_commander_v.html) USD322.99
