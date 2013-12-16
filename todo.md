@@ -262,6 +262,12 @@
 * Touratech
 * Rad Guard
   * [radguard.com.au](http://www.radguard.com.au/products/triumph-tiger-800-tiger-800xc-2011-2013-radiator-guards.html) AUD148.00
+* R&G Racing
+  * [twistedthrottle.com](http://www.twistedthrottle.com/r-g-radiator-guard-for-triumph-tiger-800-xc-11) USD104.99
+  * [pure-triumph.com](http://www.pure-triumph.com/en-au/p-3001-rg-triumph-tiger-800-radiator-guards-rad0101bk.aspx) USD95.00
+  * [solomotoparts.com](http://www.solomotoparts.com/R-and-G-Racing-Radiator-Guard-for-Tiger-800-XC-11-12/) USD104.99
+  * [rg-racing.com](http://www.rg-racing.com/browseType/Radiator_Guards/Triumph/Tiger_800/RAD0101BK.aspx) GBP51.66
+  * [accint ebay](http://www.ebay.com.au/itm/R-G-Radiator-Guard-Triumph-Tiger-800-800XC-11-up-TTLRG-RAD0101-BK-/321044884163) USD102.00
 * Triumph (A9708234)
   * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-aluminum-radiator-guard-kit.html) USD69.99
   * [peterstevens.com.au](http://shop.peterstevens.com.au/A9708234/Tiger-800-Radiator-Guard/pd.php) AUD108.02
