@@ -275,7 +275,9 @@
   * [shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger-800xc-aluminum-radiator-guard-kit/) USD71.99
 * COX
   * [surfsidemoto.com](http://www.surfsidemoto.com/store/product/COX536237.html) USD84.95
-
+* Beowulf
+  * [beowulfpp](http://www.ebay.com.au/itm/TIGER-800-BEOWULF-RADIATOR-COVER-GUARD-T018-/370911599132) AUD91.94
+  
 ### Power Commander V
 * [motorcyclegear.com](http://www.motorcyclegear.com/parts/power_commander_and_juice_box_pro/triumph/dynojet/triumph_tiger_800xc_2011_power_commander_v.html) USD322.99
 
