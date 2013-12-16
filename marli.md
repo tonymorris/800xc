@@ -21,3 +21,6 @@
 ## amazon.com _20131216_
   * Cycra U Clamp Set - KTM OEM 1156-02
   * Cycra 7500-12 PROBEND BAR
+
+## revzilla.com _20131217_
+  * Pivot Pegz Mark 3 x 2
