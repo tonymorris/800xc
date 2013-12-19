@@ -7,7 +7,7 @@
 #### Exhaust
 * ECU map (successor to 20650)
   * [tuneecu](http://tuneecu.com/TuneECU_En/)
-  * ![Purchased](image/tick.png)~~OBD II (On-board Diagnostics) Cable~~
+  * ~~OBD II (On-board Diagnostics) Cable~~
   * Forums
     * [tiger800.co.uk](http://www.tiger800.co.uk/index.php?topic=7483.0)
     * [tiger.co.uk](http://www.tiger800.co.uk/index.php?topic=1739.0)
@@ -45,11 +45,10 @@
   * Suono
     * Carbon
       * [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-SUONO-CARBON-11-T011L9-/111122263091?pt=AU_Motorcycle_Parts_Accessories&hash=item19df672c33&_uhb=1) AUD689.92
-    * Steel 
-      * Silver
-        * [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-SUONO-11-T011L7-/111016887490?pt=AU_Motorcycle_Parts_Accessories&hash=item19d91f44c2&_uhb=1) AUD552.56
-      * Black
-        * [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-SUONO-STEEL-BLACK-2013-13-/181176473525?pt=AU_Motorcycle_Parts_Accessories&hash=item2a2ef597b5&_uhb=1) AUD619.17
+    * Steel (Silver) 
+      * [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-SUONO-11-T011L7-/111016887490?pt=AU_Motorcycle_Parts_Accessories&hash=item19d91f44c2&_uhb=1) AUD552.56
+    * Steel (Black)
+      * [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-SUONO-STEEL-BLACK-2013-13-/181176473525?pt=AU_Motorcycle_Parts_Accessories&hash=item2a2ef597b5&_uhb=1) AUD619.17
 * Two Brothers M-2 VALE
   * Aluminium
     * [revzilla.com](http://www.revzilla.com/motorcycle/two-brothers-m-2-vale-slip-on-exhaust-triumph-tiger-800-2011-2013) USD423.96
@@ -94,7 +93,8 @@
 
 ----
 
-#### ![Stock is fine](image/cross.png)~~Air filter~~
+#### ~~Air filter~~
+![Stock is fine](image/cross.png)
 * ~~K&N (TB-8011)~~
   * ~~[motorcyclegear.com](http://www.motorcyclegear.com/parts/air_filters/triumph/k&n/triumph_tiger_800xc_2011_high_performance_air_filter.html) USD72.99~~
 * ~~BMC (FM632/04)~~
@@ -105,7 +105,8 @@
 
 ----
 
-#### ![Try stock Triumph](image/cross.png)~~Panniers~~
+#### ~~Panniers~~
+![Try stock Triumph](image/cross.png)
 * ~~Barrett~~
   * ~~[barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= AUD895.00](http://www.barrettexhausts.com.au/panniers.html)~~
 * ~~Micatech~~
@@ -113,7 +114,8 @@
 
 ----
 
-#### ![Purchased](image/tick.png)~~Turn signals~~
+#### ~~Turn signals~~
+![Purchased](image/tick.png)
 * ~~Front~~
   * ~~Sicass~~
     * ~~[sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) USD56.98~~
@@ -160,7 +162,8 @@
 
 ----
 
-#### ![Purchased](image/tick.png)~~Fog Lights~~
+#### ~~Fog Lights~~
+![Purchased](image/tick.png)
 * ~~Hawk LED Fog light kit~~
   * ~~[motorradgarage.com.au](https://www.motorradgarage.com.au/hawk-led-off-road-light-kit) AUD449.00~~
 * ~~Triumph Halogen (A9838011)~~
@@ -191,7 +194,8 @@
 
 ----
 
-#### ![Purchased](image/tick.png)~~Power points~~
+#### ~~Power points~~
+![Purchased](image/tick.png)
 * ~~3BR USB~~
   * ~~[TAPP 150-0056-01](http://www.3brpowersports.com/products.php) USD44.95~~
   * ~~[PANEL TAPP 150-0057-01](http://www.3brpowersports.com/products.php) USD44.95~~
@@ -207,7 +211,8 @@
 
 ----
 
-#### ![Purchased](image/tick.png)~~Levers~~
+#### ~~Levers~~
+![Purchased](image/tick.png)
 * ~~ASV C/5~~
   * ~~[calsport-1 ebay](http://www.ebay.com.au/itm/Triumph-Tiger-800-XC-ASV-C5-Brake-Clutch-Adjustable-Levers-/141029146077) AUD274.74~~
 * ~~ASV F3~~
@@ -223,7 +228,8 @@
 
 ----
 
-#### ![Purchased](image/tick.png)~~Handguards~~
+#### ~~Handguards~~
+![Purchased](image/tick.png)
 * ~~Cycra Probend Bars w/ Plastic Bumpers (Item# 7005-02)~~
   * ~~[store.cycraracing.com](http://store.cycraracing.com/prbawbu.html) USD49.95~~
 * ~~Cycra Pro Bend Bar Pack~~
@@ -250,7 +256,8 @@
 
 ----
 
-#### ![Purchased](image/tick.png)~~Handlebars~~
+#### ~~Handlebars~~
+![Purchased](image/tick.png)
 * ~~ROX Handle Bar Adjustable / Pivoting Risers~~
   * ~~[advdesigns.com](http://www.advdesigns.com/roxhabarpiri.html) USD87.00~~
   * ~~[altrider.com](http://www.altrider.com/rox-pivoting-handlebar-riser-2-rise-x-1-1-8-handlebar-clamp-x-1-1-8-handlebar/pid/611) USD81.00~~
@@ -308,7 +315,8 @@
 
 ----
 
-#### ![Purchased](image/tick.png)~~Radiator guard (Metal)~~
+#### ~~Radiator guard (Metal)~~
+![Purchased](image/tick.png)
 * ~~AltRider~~
   * ~~[altrider.com](http://www.altrider.com/altrider-radiator-guard-for-triumph-tiger-800xc/pid/712) USD131.22~~
   * ~~[advdesigns.com](http://www.advdesigns.com/alragufortrt.html) USD131.22~~
@@ -333,7 +341,8 @@
 
 ----
 
-#### ![Use tuneecu](image/cross.png)~~Power Commander V~~
+#### ~~Power Commander V~~
+![Use tuneecu](image/cross.png)
 * ~~[motorcyclegear.com](http://www.motorcyclegear.com/parts/power_commander_and_juice_box_pro/triumph/dynojet/triumph_tiger_800xc_2011_power_commander_v.html) USD322.99~~
 
 ----
@@ -344,19 +353,22 @@
 
 ----
 
-#### ![Purchased](image/tick.png)~~Heated grips~~
+#### ~~Heated grips~~
+![Purchased](image/tick.png)
 * ~~Triumph (A9638120) [^1]~~
   * ~~shorelinemotorcycles.com USD182.12~~
 
 ----
 
-#### ![Purchased](image/tick.png)~~Heated grips subharness (A9830053)~~
-* ~~_Required for heated grips (A9638120) and VIN >611411_~~
+#### ~~Heated grips subharness (A9830053)~~
+![Purchased](image/tick.png)
+* ~~_Required for heated grips (A9638120) and VIN greater than 611411_~~
 * ~~shorelinemotorcycles.com USD4.77~~
 
 ----
 
-#### ![Purchased](image/tick.png)~~Swingarm spools~~
+#### ~~Swingarm spools~~
+![Purchased](image/tick.png)
 * ~~R&G Cotton Reel~~
   * ~~[twistedthrottle.com](http://www.twistedthrottle.com/r-g-cotton-reel-swingarm-spools-for-triumph-tiger-800-800xc-11-mz-1000s) USD33.99~~
   * ~~[twistedthrottle.ca](http://www.twistedthrottle.ca/r-g-cotton-reel-swingarm-spools-for-triumph-tiger-800-800xc-11-mz-1000s) USD34.54~~
@@ -376,7 +388,8 @@
 
 ----
 
-#### ![Purchased](image/tick.png)~~Pegs~~
+#### ~~Pegs~~
+![Purchased](image/tick.png)
 * ~~Pivot Pegz Mark 3~~
   * ~~[revzilla.com](http://www.revzilla.com/motorcycle/pivot-pegz-mark-3-pivot-pegs-triumph-tiger-800xc) USD169.95~~
   * ~~[adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?products_id=1301) AUD239.00~~
@@ -396,7 +409,8 @@
 
 ----
 
-#### ![Purchased 20131205 from uniflow](image/tick.png) ~~Pre-filter (Unifilter)~~
+#### ~~Pre-filter (Unifilter)~~
+![Purchased 20131205 from uniflow](image/tick.png)
 * ~~[_NU3703 for 800XC, NU3704 for 800XC ABS_](http://www.tiger800.co.uk/index.php?topic=9468.0)~~
 * ~~_Our part# NU 3704 fits both the Abs and non Abs models. -- Myles Gooch, Manager, Unifilter Australia_~~
 * ~~Unifilter~~
@@ -447,5 +461,5 @@
 
 * [SW Motech Triumph 800/1050 (2 page PDF)](http://dl.dropbox.com/u/7810909/Triumph_Tiger1050_Tiger800XC.pdf)
 
-[^1]: Requires sub harness for VIN >611411
+[^1]: Requires sub harness for VIN greater than 611411
 [^2]: [Free shipping next year](https://mail.google.com/mail/u/0/?shva=1#inbox/142fdf17213dbf5a)
