@@ -37,7 +37,18 @@
     * [motorcyclegear.com](http://www.motorcyclegear.com/parts/all_other_exhausts/triumph/leo_vince_/triumph_tiger_800xc_2011_lv_one_evo_ii_slip_on_exhaust.html) USD409.99
     * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=31384) USD351.78
 * MIVV
-  * [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-OVAL-TITANIUM-CC-11-T011LNC-/111016887482) AUD448.13
+  * Oval 
+    * Titanium
+      * [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-OVAL-TITANIUM-CC-11-T011LNC-/111016887482) AUD448.13
+    * Carbon
+      * [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-OVAL-CARBON-CC-11-T011LEC/111016887475?rt=nc&_trksid=p2047675.m1851&_trkparms=aid%3D222002%26algo%3DSIC.FIT%26ao%3D1%26asc%3D163%26meid%3D3504505230345956104%26pid%3D100005%26prg%3D1088%26rk%3D2%26rkt%3D4%26sd%3D111016887482%26) AUD448.13
+  * Suono
+    * Carbon [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-SUONO-CARBON-11-T011L9-/111122263091?pt=AU_Motorcycle_Parts_Accessories&hash=item19df672c33&_uhb=1) AUD689.92
+    * Steel 
+      * Silver
+        * [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-SUONO-11-T011L7-/111016887490?pt=AU_Motorcycle_Parts_Accessories&hash=item19d91f44c2&_uhb=1) AUD552.56
+      * Black
+        * [mototopgun ebay](http://www.ebay.com.au/itm/EXHAUST-MIVV-TRIUMPH-TIGER-800-SUONO-STEEL-BLACK-2013-13-/181176473525?pt=AU_Motorcycle_Parts_Accessories&hash=item2a2ef597b5&_uhb=1) AUD619.17
 * Two Brothers M-2 VALE
   * Aluminium
     * [revzilla.com](http://www.revzilla.com/motorcycle/two-brothers-m-2-vale-slip-on-exhaust-triumph-tiger-800-2011-2013) USD423.96
