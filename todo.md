@@ -5,7 +5,7 @@
 ----
 
 #### Exhaust
-* ECU map 20650
+* ECU map (successor to 20650)
   * [tuneecu](http://tuneecu.com/TuneECU_En/)
   * ![Purchased](tick.png)~~OBD II (On-board Diagnostics) Cable~~
   * Forums
@@ -91,11 +91,15 @@
   * [linkint.com.au](http://www.linkint.com.au/Product/69M-632-04_item.html) AUD124.95
   * [speedaddictcycles.com](http://www.speedaddictcycles.com/product/LV-FM632-04/BMC-Standard-Air-Filter-Triumph-Tiger-800Tiger-800-XC-2011-2012.html) USD67.15
 
+----
+
 #### Panniers
 * Barrett
   * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= AUD895.00](http://www.barrettexhausts.com.au/panniers.html)
 * Micatech
   * [micateach.net](http://micatech.net/on-the-road)
+
+----
 
 #### Turn signals
 * Front
