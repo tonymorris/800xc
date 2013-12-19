@@ -278,7 +278,7 @@
 * Holan
   * [advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=87) USD264.99
 * AltRider
-  * [adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?cPath=111_218&products_id=1822) AUD409.95 [^2]
+  * [adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?cPath=111_218&products_id=1822) AUD409.95 ^[Free shipping next year](https://mail.google.com/mail/u/0/?shva=1#inbox/142fdf17213dbf5a)]
 * SW Motech
   * [motoradgarage](https://www.motorradgarage.com.au/crashbars-engine-guard-triumph-tiger-800-800xc-11-) AUD279.00
   * [xjpioneer ebay](http://www.ebay.com/itm/SW-MOTECH-Crashbars-Engine-Guards-Triumph-Tiger-800-800XC-XC-2011-2013-/300969368100?pt=Motorcycles_Parts_Accessories&hash=item46132c1a24) USD234.99
@@ -292,7 +292,7 @@
 * AltRider
   * [altrider.com](http://www.altrider.com/altrider-skid-plate-for-the-triumph-tiger-800xc/pid/702) USD298.72
   * [advdesigns.com](http://www.advdesigns.com/alskplfortrt.html) USD298.72
-  * [adventuremoto.com.au](http://www.adventuremoto.com.au/product_info.php?manufacturers_id=39&products_id=1415) AUD379.95 [^2]
+  * [adventuremoto.com.au](http://www.adventuremoto.com.au/product_info.php?manufacturers_id=39&products_id=1415) AUD379.95 ^[Free shipping next year](https://mail.google.com/mail/u/0/?shva=1#inbox/142fdf17213dbf5a)]
 * SW Motech
   * _comes in black or silver_
   * [motoradgarage](https://www.motorradgarage.com.au/engine-guard-skid-plate-triumph-tiger-800-800xc) AUD299.00
@@ -355,7 +355,7 @@
 
 #### ~~Heated grips~~
 ![Purchased](image/tick.png)
-* ~~Triumph (A9638120) [^1]~~
+* ~~Triumph (A9638120) ^[Requires sub harness for VIN greater than 611411]~~
   * ~~shorelinemotorcycles.com USD182.12~~
 
 ----
@@ -460,6 +460,3 @@
 ### Notes
 
 * [SW Motech Triumph 800/1050 (2 page PDF)](http://dl.dropbox.com/u/7810909/Triumph_Tiger1050_Tiger800XC.pdf)
-
-[^1]: Requires sub harness for VIN greater than 611411
-[^2]: [Free shipping next year](https://mail.google.com/mail/u/0/?shva=1#inbox/142fdf17213dbf5a)
