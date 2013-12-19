@@ -179,7 +179,7 @@
 
 ----
 
-#### ![Purchased](tick.png)~~Power points ~~
+#### ![Purchased](tick.png)~~Power points~~
 * ~~3BR USB~~
   * ~~[TAPP 150-0056-01](http://www.3brpowersports.com/products.php) USD44.95~~
   * ~~[PANEL TAPP 150-0057-01](http://www.3brpowersports.com/products.php) USD44.95~~
