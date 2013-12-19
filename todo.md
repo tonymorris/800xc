@@ -347,6 +347,8 @@
     * [ja-gps.com.au](http://www.ja-gps.com.au/SPOT/spot-gen-3/) AUD199.00
     * [USD165/year subscription](http://au.findmespot.com/en/index.php?cid=103)
 
+### GPS Tracking
+
 ### Cat. Eliminator
 
 ## Legend
