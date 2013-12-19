@@ -82,48 +82,48 @@
 
 ----
 
-#### Air filter
-* K&N (TB-8011)
-  * [motorcyclegear.com](http://www.motorcyclegear.com/parts/air_filters/triumph/k&n/triumph_tiger_800xc_2011_high_performance_air_filter.html) USD72.99
-* BMC (FM632/04)
-  * [sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=23384) USD80.96
-  * [speedaddictcycles ebay](http://www.ebay.com.au/itm/BMC-Standard-Air-Filter-Triumph-Tiger-800-Tiger-800-XC-2011-2012-/190788855860) USD67.15
-  * [linkint.com.au](http://www.linkint.com.au/Product/69M-632-04_item.html) AUD124.95
-  * [speedaddictcycles.com](http://www.speedaddictcycles.com/product/LV-FM632-04/BMC-Standard-Air-Filter-Triumph-Tiger-800Tiger-800-XC-2011-2012.html) USD67.15
+#### ![Stock is fine](cross.png)~~Air filter~~
+* ~~K&N (TB-8011)~~
+  * ~~[motorcyclegear.com](http://www.motorcyclegear.com/parts/air_filters/triumph/k&n/triumph_tiger_800xc_2011_high_performance_air_filter.html) USD72.99~~
+* ~~BMC (FM632/04)~~
+  * ~~[sportbiketrackgear.com](http://stores.sportbiketrackgear.com/Detail.bok?no=23384) USD80.96~~
+  * ~~[speedaddictcycles ebay](http://www.ebay.com.au/itm/BMC-Standard-Air-Filter-Triumph-Tiger-800-Tiger-800-XC-2011-2012-/190788855860) USD67.15~~
+  * ~~[linkint.com.au](http://www.linkint.com.au/Product/69M-632-04_item.html) AUD124.95~~
+  * ~~[speedaddictcycles.com](http://www.speedaddictcycles.com/product/LV-FM632-04/BMC-Standard-Air-Filter-Triumph-Tiger-800Tiger-800-XC-2011-2012.html) USD67.15~~
 
 ----
 
-#### Panniers
-* Barrett
-  * [barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= AUD895.00](http://www.barrettexhausts.com.au/panniers.html)
-* Micatech
-  * [micateach.net](http://micatech.net/on-the-road)
+#### ![Try stock Triumph](cross.png)~~Panniers~~
+* ~~Barrett~~
+  * ~~[barrettexhausts.com.au](http://www.barrettexhausts.com.au/triumph-panniers-pics.html) [>= AUD895.00](http://www.barrettexhausts.com.au/panniers.html)~~
+* ~~Micatech~~
+  * ~~[micateach.net](http://micatech.net/on-the-road)~~
 
 ----
 
-#### Turn signals
-* Front
-  * Sicass
-    * [sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) USD56.98
-  * Triumph (A9830047)
-    * [peterstevens.com.au](http://shop.peterstevens.com.au/A9830047/LED-Mini-Indicators/pd.php) AUD89.95
-    * [bevanmotorcycle ebay](http://www.ebay.com.au/itm/GENUINE-TRIUMPH-TIGER-800-LED-INDICATORS-GLOSS-BLACK-A9830047-ONLY-55-/370859752890) GBP55.00
-    * [triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Indicator--LED--Black--Gloss--Kit-Requires-relay-A9830046-for-fitment/9932492/A9830047.html) USD65.93
-  * Baja Designs Mini Stalk (60-3028)
-    * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=603028) USD52.95
-    * [bikebandit.com](http://www.bikebandit.com/baja-designs-mini-stalk-l-e-d-turn-signals?m=155146) USD47.95
-    * [amazon.com](http://www.amazon.com/Baja-Designs-Stalk-Signals-60-3028/dp/B000WJ9NBQ) USD44.62
-* Rear
-  * HDB
-    * [highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=turn_signals)
-  * Triumph (A9830047)
-    * [peterstevens.com.au](http://shop.peterstevens.com.au/A9830047/LED-Mini-Indicators/pd.php) AUD89.95
-    * [bevanmotorcycle ebay](http://www.ebay.com.au/itm/GENUINE-TRIUMPH-TIGER-800-LED-INDICATORS-GLOSS-BLACK-A9830047-ONLY-55-/370859752890) GBP55.00
-    * [triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Indicator--LED--Black--Gloss--Kit-Requires-relay-A9830046-for-fitment/9932492/A9830047.html) USD65.93
-  * Baja Designs Mini Stalk (60-3028)
-    * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=603028) USD52.95
-    * [bikebandit.com](http://www.bikebandit.com/baja-designs-mini-stalk-l-e-d-turn-signals?m=155146) USD47.95
-    * [amazon.com](http://www.amazon.com/Baja-Designs-Stalk-Signals-60-3028/dp/B000WJ9NBQ) USD44.62
+#### ![Purchased](tick.png)~~Turn signals~~
+* ~~Front~~
+  * ~~Sicass~~
+    * ~~[sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) USD56.98~~
+  * ~~Triumph (A9830047)~~
+    * ~~[peterstevens.com.au](http://shop.peterstevens.com.au/A9830047/LED-Mini-Indicators/pd.php) AUD89.95~~
+    * ~~[bevanmotorcycle ebay](http://www.ebay.com.au/itm/GENUINE-TRIUMPH-TIGER-800-LED-INDICATORS-GLOSS-BLACK-A9830047-ONLY-55-/370859752890) GBP55.00~~
+    * ~~[triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Indicator--LED--Black--Gloss--Kit-Requires-relay-A9830046-for-fitment/9932492/A9830047.html) USD65.93~~
+  * ~~Baja Designs Mini Stalk (60-3028)~~
+    * ~~[bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=603028) USD52.95~~
+    * ~~[bikebandit.com](http://www.bikebandit.com/baja-designs-mini-stalk-l-e-d-turn-signals?m=155146) USD47.95~~
+    * ~~[amazon.com](http://www.amazon.com/Baja-Designs-Stalk-Signals-60-3028/dp/B000WJ9NBQ) USD44.62~~
+* ~~Rear~~
+  * ~~HDB~~
+    * ~~[highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=turn_signals)~~
+  * ~~Triumph (A9830047)~~
+    * ~~[peterstevens.com.au](http://shop.peterstevens.com.au/A9830047/LED-Mini-Indicators/pd.php) AUD89.95~~
+    * ~~[bevanmotorcycle ebay](http://www.ebay.com.au/itm/GENUINE-TRIUMPH-TIGER-800-LED-INDICATORS-GLOSS-BLACK-A9830047-ONLY-55-/370859752890) GBP55.00~~
+    * ~~[triumphmcparts.com](http://www.triumphmcparts.com/products/Triumph/Indicator--LED--Black--Gloss--Kit-Requires-relay-A9830046-for-fitment/9932492/A9830047.html) USD65.93~~
+  * ~~Baja Designs Mini Stalk (60-3028)~~
+    * ~~[bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=603028) USD52.95~~
+    * ~~[bikebandit.com](http://www.bikebandit.com/baja-designs-mini-stalk-l-e-d-turn-signals?m=155146) USD47.95~~
+    * ~~[amazon.com](http://www.amazon.com/Baja-Designs-Stalk-Signals-60-3028/dp/B000WJ9NBQ) USD44.62~~
 
 ----
 
@@ -143,10 +143,12 @@
   * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=498003) USD679.95
 * BajaDesigns SII
   * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=488003) USD459.95
+* Oledone WD-1L10-L
+  * [contractmining.com.au](http://www.contractmining.com.au/)
 
 ----
 
-#### * ![Purchased](tick.png)~~Fog Lights~~
+#### ![Purchased](tick.png)~~Fog Lights~~
 * ~~Hawk LED Fog light kit~~
   * ~~[motorradgarage.com.au](https://www.motorradgarage.com.au/hawk-led-off-road-light-kit) AUD449.00~~
 * ~~Triumph Halogen (A9838011)~~
@@ -167,22 +169,24 @@
 
 #### GPS 
 * Mount
+* Power 
 
 ----
 
 #### Phone
 * Mount
+* Power
 
 ----
 
-#### Power points 
-* 3BR USB
-  * [TAPP 150-0056-01](http://www.3brpowersports.com/products.php) USD44.95
-  * [PANEL TAPP 150-0057-01](http://www.3brpowersports.com/products.php) USD44.95
-  * [TAPP CAPPED RedBand Micro USB Cable RA Right 9 inch 202-0056-09](http://www.3brpowersports.com/products_Red_Band_USB.php) USD15.95
-  * [TAPP CAPPED RedBand Micro USB Cable RA Left 9 inch 202-0060-09](http://www.3brpowersports.com/products_Red_Band_USB.php) USD15.95
-  * [TAPP CAPPED RedBand GPS Power USB Cable RA Up 9 inch 202-0064-09](http://www.3brpowersports.com/products_Red_Band_USB.php) USD21.95
-* DIN
+#### ![Purchased](tick.png)~~Power points ~~
+* ~~3BR USB~~
+  * ~~[TAPP 150-0056-01](http://www.3brpowersports.com/products.php) USD44.95~~
+  * ~~[PANEL TAPP 150-0057-01](http://www.3brpowersports.com/products.php) USD44.95~~
+  * ~~[TAPP CAPPED RedBand Micro USB Cable RA Right 9 inch 202-0056-09](http://www.3brpowersports.com/products_Red_Band_USB.php) USD15.95~~
+  * ~~[TAPP CAPPED RedBand Micro USB Cable RA Left 9 inch 202-0060-09](http://www.3brpowersports.com/products_Red_Band_USB.php) USD15.95~~
+  * ~~[TAPP CAPPED RedBand GPS Power USB Cable RA Up 9 inch 202-0064-09](http://www.3brpowersports.com/products_Red_Band_USB.php) USD21.95~~
+* ~~DIN~~
 
 ----
 
@@ -207,44 +211,44 @@
 
 ----
 
-#### Handguards 
-* Cycra Probend Bars w/ Plastic Bumpers (Item# 7005-02)
-  * [store.cycraracing.com](http://store.cycraracing.com/prbawbu.html) USD49.95
-* Cycra Pro Bend Bar Pack
-  * U-Clamp 08+ Pro Taper/KTM OEM #1156-02
-    * [store.cycraracing.com](http://store.cycraracing.com/uclhamos.html) USD44.95
-    * [amazon.com](http://www.amazon.com/Cycra-Clamp-Set-KTM-1156-02/dp/B000I87E0S/ref=sr_1_1?s=automotive&ie=UTF8&qid=1386479395&sr=1-1&keywords=cycra+u+clamp+1156-02) USD32.62
-    * [motosport.com](http://www.motosport.com/dirtbike/CYCRA-PRO-BEND-U-CLAMP-MOUNT) AUD57.90
-    * [motorcycle-superstore.com](http://www.motorcycle-superstore.com/39568/i/cycra-u-clamp-mount-system) USD40.99
-    * [dirtbikebitz.com](http://www.dirtbikebitz.com/cycra-pro-bend-clamp-fitting-kit-p-7439.html) GBP26.99
-  * [bikebandit.com](http://www.bikebandit.com/cycra-probend-handguard-bar-pack) USD74.95
-  * [cycraracing.com](http://store.cycraracing.com/alprbarpab.html) USD82.95
-  * [bikebiz.com.au](http://www.bikebiz.com.au/products/Cycra-ProBend-Handguards.html) AUD84.95
-  * [torpedo7.com.au](http://www.torpedo7.com.au/products/YCP2HNNS1/title/cycra-probend-bar-pack-dx-hand-guards) AUD99.99
-  * [slavensracing.com](http://slavensracing.com/shop/cycra-alloy-probend-handguard-pack-with-hand-shields/) USD76.95
-* HDB
-  * [_Just an FYI for those getting the HDB setup - follow up with a note right after ordering, and they'll be glad to enlarge the bar hole from 8mm to 10mm for you to accomodate the OEM end weights._](http://www.tiger800.co.uk/index.php/topic,1947.msg64710.html#msg64710)
-  * Ultimate
-    * [highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=handguards_00)
-  * NextGen
-    * [highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=NexGen_00)
-* Sicass handguard turn signals
-  * _parts 22-106, 22-300, 22-206_
-  * [sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) USD56.98
+#### ![Purchased](tick.png)~~Handguards~~
+* ~~Cycra Probend Bars w/ Plastic Bumpers (Item# 7005-02)~~
+  * ~~[store.cycraracing.com](http://store.cycraracing.com/prbawbu.html) USD49.95~~
+* ~~Cycra Pro Bend Bar Pack~~
+  * ~~U-Clamp 08+ Pro Taper/KTM OEM #1156-02~~
+    * ~~[store.cycraracing.com](http://store.cycraracing.com/uclhamos.html) USD44.95~~
+    * ~~[amazon.com](http://www.amazon.com/Cycra-Clamp-Set-KTM-1156-02/dp/B000I87E0S/ref=sr_1_1?s=automotive&ie=UTF8&qid=1386479395&sr=1-1&keywords=cycra+u+clamp+1156-02) USD32.62~~
+    * ~~[motosport.com](http://www.motosport.com/dirtbike/CYCRA-PRO-BEND-U-CLAMP-MOUNT) AUD57.90~~
+    * ~~[motorcycle-superstore.com](http://www.motorcycle-superstore.com/39568/i/cycra-u-clamp-mount-system) USD40.99~~
+    * ~~[dirtbikebitz.com](http://www.dirtbikebitz.com/cycra-pro-bend-clamp-fitting-kit-p-7439.html) GBP26.99~~
+  * ~~[bikebandit.com](http://www.bikebandit.com/cycra-probend-handguard-bar-pack) USD74.95~~
+  * ~~[cycraracing.com](http://store.cycraracing.com/alprbarpab.html) USD82.95~~
+  * ~~[bikebiz.com.au](http://www.bikebiz.com.au/products/Cycra-ProBend-Handguards.html) AUD84.95~~
+  * ~~[torpedo7.com.au](http://www.torpedo7.com.au/products/YCP2HNNS1/title/cycra-probend-bar-pack-dx-hand-guards) AUD99.99~~
+  * ~~[slavensracing.com](http://slavensracing.com/shop/cycra-alloy-probend-handguard-pack-with-hand-shields/) USD76.95~~
+* ~~HDB~~
+  * ~~[_Just an FYI for those getting the HDB setup - follow up with a note right after ordering, and they'll be glad to enlarge the bar hole from 8mm to 10mm for you to accomodate the OEM end weights._](http://www.tiger800.co.uk/index.php/topic,1947.msg64710.html#msg64710)~~
+  * ~~Ultimate~~
+    * ~~[highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=handguards_00)~~
+  * ~~NextGen~~
+    * ~~[highwaydirtbikes.com](http://www.highwaydirtbikes.com/HDB_Shop/index.php?app=ccp0&ns=catshow&ref=NexGen_00)~~
+* ~~Sicass handguard turn signals~~
+  * ~~_parts 22-106, 22-300, 22-206_~~
+  * ~~[sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) USD56.98~~
 
 ----
 
-#### Handlebars 
-* ROX Handle Bar Adjustable / Pivoting Risers
-  * [advdesigns.com](http://www.advdesigns.com/roxhabarpiri.html) USD87.00
-  * [altrider.com](http://www.altrider.com/rox-pivoting-handlebar-riser-2-rise-x-1-1-8-handlebar-clamp-x-1-1-8-handlebar/pid/611) USD81.00
-  * [freedomcycleenv.com](http://shop.freedomcyclenv.com/rox-pivoting-handlebar-risers/) USD83.95
-  * [adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?manufacturers_id=107&products_id=1978) AUD112.95
-* SW Motech 20mm Riser
-  * [squaredeals-ltd.co.uk](http://www.squaredeals-ltd.co.uk/triumph-tiger-800--800xc-handlebar-riser-20mm-leh1103910000s-14150-p.asp) GBP32.00
-  * [jcsmotorcycles.com.au](http://www.jcsmotorcycles.com.au/index.php?route=product/product&sort=p.price&order=ASC&manufacturer_id=17&product_id=697) AUD79.00
-  * [ollyhands0 ebay](http://www.ebay.com.au/itm/TRIUMPH-Tiger-800xc-Handle-Bar-Riser-20mm-Rise-Anodized-Silver-/360498193724) GBP44.99
-  * [advdepot.com](http://advdepot.com/sw-motech-handlebar-risers-tiger-explorer.html) USD47.99
+#### ![Purchased](tick.png)~~Handlebars~~
+* ~~ROX Handle Bar Adjustable / Pivoting Risers~~
+  * ~~[advdesigns.com](http://www.advdesigns.com/roxhabarpiri.html) USD87.00~~
+  * ~~[altrider.com](http://www.altrider.com/rox-pivoting-handlebar-riser-2-rise-x-1-1-8-handlebar-clamp-x-1-1-8-handlebar/pid/611) USD81.00~~
+  * ~~[freedomcycleenv.com](http://shop.freedomcyclenv.com/rox-pivoting-handlebar-risers/) USD83.95~~
+  * ~~[adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?manufacturers_id=107&products_id=1978) AUD112.95~~
+* ~~SW Motech 20mm Riser~~
+  * ~~[squaredeals-ltd.co.uk](http://www.squaredeals-ltd.co.uk/triumph-tiger-800--800xc-handlebar-riser-20mm-leh1103910000s-14150-p.asp) GBP32.00~~
+  * ~~[jcsmotorcycles.com.au](http://www.jcsmotorcycles.com.au/index.php?route=product/product&sort=p.price&order=ASC&manufacturer_id=17&product_id=697) AUD79.00~~
+  * ~~[ollyhands0 ebay](http://www.ebay.com.au/itm/TRIUMPH-Tiger-800xc-Handle-Bar-Riser-20mm-Rise-Anodized-Silver-/360498193724) GBP44.99~~
+  * ~~[advdepot.com](http://advdepot.com/sw-motech-handlebar-risers-tiger-explorer.html) USD47.99~~
 
 ----
 
@@ -291,33 +295,33 @@
 
 ----
 
-#### Radiator guard (Metal)
-* AltRider
-  * [altrider.com](http://www.altrider.com/altrider-radiator-guard-for-triumph-tiger-800xc/pid/712) USD131.22
-  * [advdesigns.com](http://www.advdesigns.com/alragufortrt.html) USD131.22
-  * [revzilla.com](http://www.revzilla.com/motorcycle/altrider-triumph-tiger-800xc-radiator-guard) USD131.22
-* Touratech
-* Rad Guard
-  * [radguard.com.au](http://www.radguard.com.au/products/triumph-tiger-800-tiger-800xc-2011-2013-radiator-guards.html) AUD148.00
-* R&G Racing
-  * [twistedthrottle.com](http://www.twistedthrottle.com/r-g-radiator-guard-for-triumph-tiger-800-xc-11) USD104.99
-  * [pure-triumph.com](http://www.pure-triumph.com/en-au/p-3001-rg-triumph-tiger-800-radiator-guards-rad0101bk.aspx) USD95.00
-  * [solomotoparts.com](http://www.solomotoparts.com/R-and-G-Racing-Radiator-Guard-for-Tiger-800-XC-11-12/) USD104.99
-  * [rg-racing.com](http://www.rg-racing.com/browseType/Radiator_Guards/Triumph/Tiger_800/RAD0101BK.aspx) GBP51.66
-  * [accint ebay](http://www.ebay.com.au/itm/R-G-Radiator-Guard-Triumph-Tiger-800-800XC-11-up-TTLRG-RAD0101-BK-/321044884163) USD102.00
-* Triumph (A9708234)
-  * [british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-aluminum-radiator-guard-kit.html) USD69.99
-  * [peterstevens.com.au](http://shop.peterstevens.com.au/A9708234/Tiger-800-Radiator-Guard/pd.php) AUD108.02
-  * [shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger-800xc-aluminum-radiator-guard-kit/) USD71.99
-* COX
-  * [surfsidemoto.com](http://www.surfsidemoto.com/store/product/COX536237.html) USD84.95
-* Beowulf
-  * [beowulfpp](http://www.ebay.com.au/itm/TIGER-800-BEOWULF-RADIATOR-COVER-GUARD-T018-/370911599132) AUD91.94
+#### ![Purchased](tick.png)~~Radiator guard (Metal)~~
+* ~~AltRider~~
+  * ~~[altrider.com](http://www.altrider.com/altrider-radiator-guard-for-triumph-tiger-800xc/pid/712) USD131.22~~
+  * ~~[advdesigns.com](http://www.advdesigns.com/alragufortrt.html) USD131.22~~
+  * ~~[revzilla.com](http://www.revzilla.com/motorcycle/altrider-triumph-tiger-800xc-radiator-guard) USD131.22~~
+* ~~Touratech~~
+* ~~Rad Guard~~
+  * ~~[radguard.com.au](http://www.radguard.com.au/products/triumph-tiger-800-tiger-800xc-2011-2013-radiator-guards.html) AUD148.00~~
+* ~~R&G Racing~~
+  * ~~[twistedthrottle.com](http://www.twistedthrottle.com/r-g-radiator-guard-for-triumph-tiger-800-xc-11) USD104.99~~
+  * ~~[pure-triumph.com](http://www.pure-triumph.com/en-au/p-3001-rg-triumph-tiger-800-radiator-guards-rad0101bk.aspx) USD95.00~~
+  * ~~[solomotoparts.com](http://www.solomotoparts.com/R-and-G-Racing-Radiator-Guard-for-Tiger-800-XC-11-12/) USD104.99~~
+  * ~~[rg-racing.com](http://www.rg-racing.com/browseType/Radiator_Guards/Triumph/Tiger_800/RAD0101BK.aspx) GBP51.66~~
+  * ~~[accint ebay](http://www.ebay.com.au/itm/R-G-Radiator-Guard-Triumph-Tiger-800-800XC-11-up-TTLRG-RAD0101-BK-/321044884163) USD102.00~~
+* ~~Triumph (A9708234)~~
+  * ~~[british-customs.com](http://www.british-customs.com/triumph-tiger-800-xc-aluminum-radiator-guard-kit.html) USD69.99~~
+  * ~~[peterstevens.com.au](http://shop.peterstevens.com.au/A9708234/Tiger-800-Radiator-Guard/pd.php) AUD108.02~~
+  * ~~[shop-triumph.com](http://shop-triumph.com/products-page/accessories/triumph-adventure-tiger-800xc-aluminum-radiator-guard-kit/) USD71.99~~
+* ~~COX~~
+  * ~~[surfsidemoto.com](http://www.surfsidemoto.com/store/product/COX536237.html) USD84.95~~
+* ~~Beowulf~~
+  * ~~[beowulfpp](http://www.ebay.com.au/itm/TIGER-800-BEOWULF-RADIATOR-COVER-GUARD-T018-/370911599132) AUD91.94~~
 
 ----
 
-#### Power Commander V
-* [motorcyclegear.com](http://www.motorcyclegear.com/parts/power_commander_and_juice_box_pro/triumph/dynojet/triumph_tiger_800xc_2011_power_commander_v.html) USD322.99
+#### ![Use tuneecu](cross.png)~~Power Commander V~~
+* ~~[motorcyclegear.com](http://www.motorcyclegear.com/parts/power_commander_and_juice_box_pro/triumph/dynojet/triumph_tiger_800xc_2011_power_commander_v.html) USD322.99~~
 
 ----
 
@@ -359,15 +363,15 @@
 
 ----
 
-#### Pegs  
-* Pivot Pegz Mark 3
-  * [revzilla.com](http://www.revzilla.com/motorcycle/pivot-pegz-mark-3-pivot-pegs-triumph-tiger-800xc) USD169.95
-  * [adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?products_id=1301) AUD239.00
-* SW Motech
-  * [motorradgarage.com.au](https://www.motorradgarage.com.au/foot-peg-kit-on-road-off-road-triumph-tiger-800-800xc-and-explorer-1200) AUD159.00
-  * [twistedthrottle.com](http://www.twistedthrottle.com/sw-motech-on-road-off-road-footpegs-triumph-tiger-800-800xc-11-explorer-1200-12) USD147.98
-  * [advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=380) USD147.98
-  * [squaredeals-ltd.co.uk](http://www.squaredeals-ltd.co.uk/tiger-800--800xc-footpeg-lowering--road-off-road-kit-frs1101110100s-14809-p.asp) GBP89.99
+#### ![Purchased](tick.png)~~Pegs~~
+* ~~Pivot Pegz Mark 3~~
+  * ~~[revzilla.com](http://www.revzilla.com/motorcycle/pivot-pegz-mark-3-pivot-pegs-triumph-tiger-800xc) USD169.95~~
+  * ~~[adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?products_id=1301) AUD239.00~~
+* ~~SW Motech~~
+  * ~~[motorradgarage.com.au](https://www.motorradgarage.com.au/foot-peg-kit-on-road-off-road-triumph-tiger-800-800xc-and-explorer-1200) AUD159.00~~
+  * ~~[twistedthrottle.com](http://www.twistedthrottle.com/sw-motech-on-road-off-road-footpegs-triumph-tiger-800-800xc-11-explorer-1200-12) USD147.98~~
+  * ~~[advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=380) USD147.98~~
+  * ~~[squaredeals-ltd.co.uk](http://www.squaredeals-ltd.co.uk/tiger-800--800xc-footpeg-lowering--road-off-road-kit-frs1101110100s-14809-p.asp) GBP89.99~~
 
 ----
 
