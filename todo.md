@@ -315,7 +315,7 @@
 
 ----
 
-#### ~~Radiator guard (Metal)~~
+#### ~~Radiator guard~~
 ![Purchased](image/tick.png)
 * ~~AltRider~~
   * ~~[altrider.com](http://www.altrider.com/altrider-radiator-guard-for-triumph-tiger-800xc/pid/712) USD131.22~~
