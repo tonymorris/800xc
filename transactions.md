@@ -26,7 +26,7 @@
 ### Pivot Pegz
 * revzilla.com (shared transaction)
 * Date 20131217
-* Jason owes Tony USD161.45 (AUD ???) from a total transaction of USD322.90
+* Jason owes Tony USD161.45 (AUD181.81) from a total transaction of USD322.90 (AUD363.63)
 
 ----
 
