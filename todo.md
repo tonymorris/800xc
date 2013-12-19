@@ -355,7 +355,7 @@
 
 #### ~~Heated grips~~
 ![Purchased](image/tick.png)
-* ~~Triumph (A9638120) ^[Requires sub harness for VIN greater than 611411]~~
+* ~~Triumph (A9638120)~~ ^[Requires sub harness for VIN greater than 611411]
   * ~~shorelinemotorcycles.com USD182.12~~
 
 ----
