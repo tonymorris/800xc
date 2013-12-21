@@ -29,6 +29,8 @@
 
 ----
 
+![Delivered](image/tick.png) Delivered
+
 ### sicassracing.com 
 
 #### 20131216
@@ -62,6 +64,8 @@
   * Cycra 7500-12 PROBEND BAR
 
 ----
+
+![Delivered](image/tick.png) Delivered
 
 ### revzilla.com 
 
