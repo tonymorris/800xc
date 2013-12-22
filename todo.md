@@ -299,7 +299,7 @@
   * [motomachines.com](http://www.motomachines.com/Engine-Guard--Triumph-Tiger-800-XC_p_461.html) USD251.79
 * Holan
   * [advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=87) USD264.99
-* AltRider
+* AltRider (T811-2-1000)
   * [adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?cPath=111_218&products_id=1822) AUD409.95 ^[Free shipping next year](https://mail.google.com/mail/u/0/?shva=1#inbox/142fdf17213dbf5a)]
 * SW Motech
   * [motoradgarage](https://www.motorradgarage.com.au/crashbars-engine-guard-triumph-tiger-800-800xc-11-) AUD279.00
@@ -311,7 +311,7 @@
 ----
 
 #### Skid plate 
-* AltRider
+* AltRider (T811-2-1200)
   * [altrider.com](http://www.altrider.com/altrider-skid-plate-for-the-triumph-tiger-800xc/pid/702) USD298.72
   * [advdesigns.com](http://www.advdesigns.com/alskplfortrt.html) USD298.72
   * [adventuremoto.com.au](http://www.adventuremoto.com.au/product_info.php?manufacturers_id=39&products_id=1415) AUD379.95 ^[Free shipping next year](https://mail.google.com/mail/u/0/?shva=1#inbox/142fdf17213dbf5a)]
