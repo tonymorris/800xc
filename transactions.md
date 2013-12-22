@@ -67,7 +67,7 @@
 
 ----
 
-#### Oledone WL-1L10-L LED lights
+#### Oledone WD-1L10-L LED lights
 * ebay.com autoelecs_com_au grantcsav@hotmail.com
 * Date: 20131223
 * Jason owes Tony AUD165.00
