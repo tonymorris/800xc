@@ -167,6 +167,9 @@
     * [snakeracing.com.au SRMFLDW](http://snakeracing.com.au/store/flood-light-lumens-p-4310.html?osCsid=a3730eb8de93077d3a1841cfb64a6a26) AUD135.00
   * SR-M2 (91231)
     * [snakeracing.com.au](http://snakeracing.com.au/store/shopping_cart.php?sort=products_sort_order&osCsid=a3730eb8de93077d3a1841cfb64a6a26) AUD185.00
+    * [amazon.com](http://www.amazon.com/Rigid-Industries-91231-Driving-Light/dp/B009NLLRR2/ref=sr_1_1?s=automotive&ie=UTF8&qid=1387693991&sr=1-1&keywords=rigid+industries+91231) US124.79
+    * [motorcycle-superstore.com](http://www.motorcycle-superstore.com/59372/i/rigid-industries-srm2-led-light) USD142.49
+    * [bajakits.com](http://www.motorcycle-superstore.com/59372/i/rigid-industries-srm2-led-light) USD142.49
   * Dually (20221)
     * [snakeracing.com.au RGD-2DSF](http://snakeracing.com.au/store/dually-twin-pack-1300-lumens-p-3878.html?osCsid=a3730eb8de93077d3a1841cfb64a6a26) AUD145.00 (x2)
   * Dually D2 (50231)
