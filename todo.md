@@ -162,6 +162,10 @@
   * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=488003) USD459.95
 * Oledone WD-1L10-L
   * [contractmining.com.au](http://www.contractmining.com.au/)
+* Rigid Industries
+  * SR-M (90221)
+  * SR-M2 (91231)
+  * Dually (20221)
 
 ----
 
