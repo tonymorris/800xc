@@ -164,8 +164,13 @@
   * [contractmining.com.au](http://www.contractmining.com.au/)
 * Rigid Industries
   * SR-M (90221)
+    * [snakeracing.com.au SRMFLDW](http://snakeracing.com.au/store/flood-light-lumens-p-4310.html?osCsid=a3730eb8de93077d3a1841cfb64a6a26) AUD135.00
   * SR-M2 (91231)
+    * [snakeracing.com.au](http://snakeracing.com.au/store/shopping_cart.php?sort=products_sort_order&osCsid=a3730eb8de93077d3a1841cfb64a6a26) AUD185.00
   * Dually (20221)
+    * [snakeracing.com.au RGD-2DSF](http://snakeracing.com.au/store/dually-twin-pack-1300-lumens-p-3878.html?osCsid=a3730eb8de93077d3a1841cfb64a6a26) AUD145.00 (x2)
+  * Dually D2 (50231)
+    * [snakeracing.com.au RGD-2D2DRV](http://snakeracing.com.au/store/dually-twin-pack-2600-lumens-drive-p-4026.html?osCsid=a3730eb8de93077d3a1841cfb64a6a26) AUD195.00 (x2)
 
 ----
 
