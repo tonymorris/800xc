@@ -2,6 +2,8 @@
 
 ----
 
+![Delivered](image/tick.png) Delivered
+
 ### shorelinemotorsports.com 
 
 #### 20131213
@@ -54,6 +56,8 @@
   * Cycra U Clamp Set - KTM OEM 1156-02  
 
 ----
+
+![Delivered](image/tick.png) Delivered
 
 ### amazon.com 
   
