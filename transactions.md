@@ -72,3 +72,13 @@
 * Date: 20131223
 * Jason owes Tony AUD165.00
 
+----
+
+#### Hirose 6-pin connectors
+* ccddirect.com [Female](https://ccddirect.com/6-pin-female-hirose-cable-plug.html) and [Male](https://ccddirect.com/6-pin-male-hirose-cable-plug.html)
+* Date 20131226
+* Jason owes Tony AUD51.90
+
+----
+
+
