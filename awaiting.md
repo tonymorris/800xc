@@ -31,11 +31,11 @@
 
 ----
 
-### MIVV Exhaust (ebay)
+### ~~MIVV Exhaust (ebay)~~
 
-* 20131219
-* AUD448.13
-* DHL Tracking [7500946961](http://www.dhl.com/cgi-bin/tracking.pl?TID=IT_ITA&LAN=ITA&docheck=on&AWB=7500946961)
+* ~~20131219~~
+* ~~AUD448.13~~
+* ~~DHL Tracking [7500946961](http://www.dhl.com/cgi-bin/tracking.pl?TID=IT_ITA&LAN=ITA&docheck=on&AWB=7500946961)~~
 
 ----
 
@@ -44,3 +44,13 @@
 * 20131223
 * AUD495.00
 * auspost Tracking [83920001511097](http://auspost.com.au/track/track.html?id=83920001511097)
+
+----
+
+### Hirose connectors
+
+* 20131226
+* AUD103.75
+
+----
+
