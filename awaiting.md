@@ -13,7 +13,7 @@
 
 * 20131217
 * AUD205.57
-* Royal Mail Tracking (RQ504572387GB)[http://www.royalmail.com/track-trace?trackNumber=RQ504572387GB]
+* Royal Mail Tracking [RQ504572387GB](http://www.royalmail.com/track-trace?trackNumber=RQ504572387GB)
 
 ----
 
