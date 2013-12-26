@@ -339,7 +339,7 @@
 ![Purchased](image/tick.png)
 
 #### ~~Radiator guard~~
-* ~~AltRider (black) (T811-P-1102) ~~
+* ~~AltRider (black) (T811-P-1102)~~
   * ~~[altrider.com](http://www.altrider.com/altrider-radiator-guard-for-triumph-tiger-800xc/pid/712) USD131.22~~
   * ~~[advdesigns.com](http://www.advdesigns.com/alragufortrt.html) USD131.22~~
   * ~~[revzilla.com](http://www.revzilla.com/motorcycle/altrider-triumph-tiger-800xc-radiator-guard) USD131.22~~
