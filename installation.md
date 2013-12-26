@@ -2,7 +2,7 @@
 
 ----
 
-### Uniflow Pre-cleaner (NU37040)
+### Uniflow Pre-cleaner (NU3704)
 
 * Have a second person on hand to help -- their job is to have clean hands. Once you start installing the pre-cleaner, your hands are very messy.
 
