@@ -300,8 +300,11 @@
   * [motomachines.com](http://www.motomachines.com/Engine-Guard--Triumph-Tiger-800-XC_p_461.html) USD251.79
 * Holan
   * [advmotorrad.com](http://www.advmotorrad.com/index.php?route=product/product&product_id=87) USD264.99
-* AltRider (T811-2-1000)
+* AltRider (black) (T811-P-1000)
+  * [altrider.com](http://www.altrider.com/altrider-crash-bars-for-the-triumph-tiger-800xc/pid/703) USD348.37
   * [adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?cPath=111_218&products_id=1822) AUD409.95 ^[Free shipping next year](https://mail.google.com/mail/u/0/?shva=1#inbox/142fdf17213dbf5a)]
+  * [pure-triumph.com](http://www.pure-triumph.com/en-au/p-3902-triumph-altrider-crash-bars-t811-2-1000.aspx) USD348.37
+  * [revzilla.com](http://www.revzilla.com/motorcycle/altrider-crash-bars-for-tiger-800xc) USD348.37
 * SW Motech
   * [motoradgarage](https://www.motorradgarage.com.au/crashbars-engine-guard-triumph-tiger-800-800xc-11-) AUD279.00
   * [xjpioneer ebay](http://www.ebay.com/itm/SW-MOTECH-Crashbars-Engine-Guards-Triumph-Tiger-800-800XC-XC-2011-2013-/300969368100?pt=Motorcycles_Parts_Accessories&hash=item46132c1a24) USD234.99
@@ -312,13 +315,14 @@
 ----
 
 #### Skid plate 
-* AltRider (T811-2-1200)
+* AltRider (black) (T811-P-1200)
   * [altrider.com](http://www.altrider.com/altrider-skid-plate-for-the-triumph-tiger-800xc/pid/702) USD298.72
+  * [revzilla.com](http://www.revzilla.com/motorcycle/altrider-triumph-tiger-800xc-skid-plate) USD298.72
   * [advdesigns.com](http://www.advdesigns.com/alskplfortrt.html) USD298.72
   * [adventuremoto.com.au](http://www.adventuremoto.com.au/product_info.php?manufacturers_id=39&products_id=1415) AUD379.95 ^[Free shipping next year](https://mail.google.com/mail/u/0/?shva=1#inbox/142fdf17213dbf5a)]
 * SW Motech
   * _comes in black or silver_
-  * [motoradgarage](https://www.motorradgarage.com.au/engine-guard-skid-plate-triumph-tiger-800-800xc) AUD299.00
+  * [motoradgarage.com.au](https://www.motorradgarage.com.au/engine-guard-skid-plate-triumph-tiger-800-800xc) AUD299.00
   * [twistedthrottle.com](http://www.twistedthrottle.com/sw-motech-aluminum-engine-guard-skidplate-triumph-tiger-800-800xc-11-black-silver) USD252.50
   * [motivationusa](http://www.motovationusa.com/mvstore/scripts/prodView.asp?idProduct=2094) USD252.50
 * Hepco-Becker
@@ -332,16 +336,10 @@
 
 ----
 
-#### Headlight protector
-* Hepco-Becker
-  * [motomachines](http://www.motomachines.com/Headlight-Grille--Triumph-Tiger-800-XC_p_1561.html) USD111.83
-
-----
-
 ![Purchased](image/tick.png)
 
 #### ~~Radiator guard~~
-* ~~AltRider~~
+* ~~AltRider (black) (T811-P-1102) ~~
   * ~~[altrider.com](http://www.altrider.com/altrider-radiator-guard-for-triumph-tiger-800xc/pid/712) USD131.22~~
   * ~~[advdesigns.com](http://www.advdesigns.com/alragufortrt.html) USD131.22~~
   * ~~[revzilla.com](http://www.revzilla.com/motorcycle/altrider-triumph-tiger-800xc-radiator-guard) USD131.22~~
@@ -362,6 +360,12 @@
   * ~~[surfsidemoto.com](http://www.surfsidemoto.com/store/product/COX536237.html) USD84.95~~
 * ~~Beowulf~~
   * ~~[beowulfpp](http://www.ebay.com.au/itm/TIGER-800-BEOWULF-RADIATOR-COVER-GUARD-T018-/370911599132) AUD91.94~~
+
+----
+
+#### Headlight protector
+* Hepco-Becker
+  * [motomachines](http://www.motomachines.com/Headlight-Grille--Triumph-Tiger-800-XC_p_1561.html) USD111.83
 
 ----
 
