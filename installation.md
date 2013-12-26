@@ -33,9 +33,8 @@
 
 ----
 
-### MIVV Carbon Fibre exhaust slip-on
+### MIVV Oval Carbon Fibre exhaust (T.011.LEC)
 
-* 
 ##### Tools required
 
 * 6mm hex socket head wrench
@@ -70,3 +69,13 @@
 * The fitting is a bit poor, in that the muffler and link pipe are too close to the frame.
 * Once the DB killer is removed, there is no going back (easily).
 * The bike could benefit from an appropriate ECU mapping for the open muffler.
+
+----
+
+<a href="http://i.imgur.com/RhlR5RX.jpg"><img height="581" width="1032" src="http://i.imgur.com/RhlR5RX.jpg" alt="Triumph 800XC with MIVV CF exhaust"></a>
+
+----
+
+<a href="http://i.imgur.com/qHmP4vs.jpg"><img height="581" width="1032" src="http://i.imgur.com/qHmP4vs.jpg" alt="Triumph 800XC with MIVV CF exhaust"></a>
+
+----
