@@ -73,7 +73,7 @@
     * ~~[ppl-1 ebay](http://www.ebay.co.uk/itm/Remus-Stainless-Hexacone-Slip-On-Exhaust-Triumph-Tiger-800-800XC-XC-11-12-13-/261344954644?pt=UK_Motorcycle_Parts_13&hash=item3cd95f8914) GBP354.95~~
     * ~~[bici.co.ok](http://www.bici.co.uk/Shop/Motorcycle-Exhausts/Triumph-Exhausts/36598-Triumph-Tiger-800-Remus-Motorcycle-Exhausts-AND-Full-Systems.html) GBP375.00~~
   * ~~Titanium (01-420-5851-0)~~
-    * [motorcycle-luggage-shop.com](http://www.motorcycle-luggage-shop.com/Touratech/51699__Triumph_Tiger_800_XC_Exhaust/10191__REMUS_HEXACONE_muffler_Titanium_slip_on_with_stainless_steel_core_includes_connecting_tube_all_street_legal_for_Triumph_800800XC.html) GBP599.00~~
+    * ~~[motorcycle-luggage-shop.com](http://www.motorcycle-luggage-shop.com/Touratech/51699__Triumph_Tiger_800_XC_Exhaust/10191__REMUS_HEXACONE_muffler_Titanium_slip_on_with_stainless_steel_core_includes_connecting_tube_all_street_legal_for_Triumph_800800XC.html) GBP599.00~~
     * ~~[ppl-1 ebay](http://www.ebay.co.uk/itm/Remus-Titanium-Hexacone-Slip-On-Exhaust-Triumph-Tiger-800-800XC-XC-11-12-13-/370955230619?pt=UK_Motorcycle_Parts_13&hash=item565ea79d9b) GBP395.95~~
     * ~~[bici.co.uk](http://www.bici.co.uk/Shop/Motorcycle-Exhausts/Triumph-Exhausts/36598-Triumph-Tiger-800-Remus-Motorcycle-Exhausts-AND-Full-Systems.html) GBP420.00~~
   * ~~Carbon (01-420-5852-0)~~
