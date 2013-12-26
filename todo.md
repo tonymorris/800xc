@@ -163,6 +163,7 @@
 * BajaDesigns SII
   * [bajadesigns.com](http://www.bajadesigns.com/ProductDetail?ItemNumber=488003) USD459.95
 * Oledone WD-1L10-L
+  * [autoelecs_com_au ebay](http://www.ebay.com.au/itm/251291488810) AUD165.00
   * [contractmining.com.au](http://www.contractmining.com.au/)
 * Rigid Industries
   * SR-M (90221)
