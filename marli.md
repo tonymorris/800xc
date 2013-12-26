@@ -47,6 +47,8 @@
 
 ----
 
+![Delivered](image/tick.png) Delivered
+
 ### amazon.com 
   
 #### 20131216
