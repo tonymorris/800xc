@@ -29,7 +29,8 @@
 10. Remove fuel tank plastic trim (one each side).
 11. Install pre-cleaner. **Align the bottom of the flange first, then work the top.**
 12. Double-check that the pre-cleaner flange is properly sealed on the airbox.
-13. Re-install all parts using Loctite 262 thread-locker on the torx bolt and the 8mm bolt previously holding the snorkel.
+13. Re-install all parts in reverse.
+  * Use Loctite 262 thread-locker on the torx bolt and the 8mm bolt previously holding the snorkel.
 
 ----
 
