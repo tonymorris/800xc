@@ -18,6 +18,8 @@
 
 ----
 
+![Delivered](image/tick.png) Delivered
+
 ### 3BR Powersports LLC
 
 #### _20131216_
