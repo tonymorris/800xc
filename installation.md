@@ -10,7 +10,7 @@
 
 * 8mm hex bolt socket wrench
 * 27 torx wrench
-* 5mm hex socket head wrench
+* 5mm hex head socket wrench
 * Loctite 262 thread-locker
 * Hand cleaner
 * Personal virtues: aggression and patience
