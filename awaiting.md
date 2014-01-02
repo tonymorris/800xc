@@ -9,11 +9,11 @@
 
 ----
 
-### Beowulf Radiator Guards x 2 (ebay)
+### ~~Beowulf Radiator Guards x 2 (ebay)~~
 
-* 20131217
-* AUD205.57
-* Royal Mail Tracking [RQ504572387GB](http://www.royalmail.com/track-trace?trackNumber=RQ504572387GB)
+* ~~20131217~~
+* ~~AUD205.57~~
+* ~~Royal Mail Tracking [RQ504572387GB](http://www.royalmail.com/track-trace?trackNumber=RQ504572387GB)~~
 
 ----
 
