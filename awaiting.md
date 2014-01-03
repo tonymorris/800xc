@@ -17,10 +17,10 @@
 
 ----
 
-### Newcomdigi USB interface cable (ebay)
+### ~~Newcomdigi USB interface cable (ebay)~~
 
-* 20131216
-* AUD8.90
+* ~~20131216~~
+* ~~AUD8.90~~
 
 ----
 
