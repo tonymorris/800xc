@@ -379,6 +379,9 @@
 #### Tyres
 * Heidenau K60
 * TKC 80
+* Dunlop D908
+* Mitas E09
+* Mitas E07
 
 ----
 
