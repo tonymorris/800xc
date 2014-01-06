@@ -462,6 +462,17 @@
 
 #### Fix mirrors
 
+* MSR Dual Sport
+  * [bikebandit.com](http://www.bikebandit.com/msr-dual-sport-mirror?m=154268) USD11.86
+* Ken Sean Folding Dual Sport
+  * [bikebandit.com](http://www.bikebandit.com/ken-sean-folding-dual-sport-mirror?m=154268) USD16.95
+* BikeMaster Folding
+  * [bikebandit.com](http://www.bikebandit.com/bikemaster-folding-mirror?m=154268) USD17.95
+* Acerbis Rearview
+  * [bikebandit.com](http://www.bikebandit.com/acerbis-rearview-motorcycle-mirror?m=154268) USD17.96
+* EMGO Universal Fold Down
+  * [bikebandit.com](http://www.bikebandit.com/emgo-universal-fold-down-motorcycle-mirror?m=154268) USD14.95
+
 ----
 
 #### Bypass kickstand cut-out
