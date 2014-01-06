@@ -80,3 +80,37 @@
 <a href="http://i.imgur.com/qHmP4vs.jpg"><img height="581" width="1032" src="http://i.imgur.com/qHmP4vs.jpg" alt="Triumph 800XC with MIVV CF exhaust"></a>
 
 ----
+
+### CNC Brake & Clutch levers
+
+Purchased from ebay [CNC Brake Clutch Levers Triumph TIGER 1050 2007-2012 TIGER 800/XC 2011-2012](http://www.ebay.com.au/itm/270942394687?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649) from user [motorcyclepartssale](http://www.ebay.com.au/usr/motorcyclepartssale) for AUD31.99.
+
+Colour: black lever with silver adjuster.
+
+##### Tools required
+
+* 10mm hex bolt socket wrench
+* 4mm hex socket head wrench
+* Flat-blade screwdriver
+* Drill & 8mm steel drill bit
+
+##### Steps (front brake)
+
+1. Remove the 10mm nut on the front brake lever pivot point.
+2. Remove the flat-blade bolt on the front brake lever pivot point.
+3. Remove the factory front brake lever.
+4. Install the CNC front brake lever, lining up the hole with the pivot point.
+5. Reinstall the flat-blade bolt on the front brake lever pivot point, being careful not to be too tight.
+6. Reinstall the 10mm nut on the front brake lever pivot point, being careful not to be too tight.
+7. Check that the lever pivots freely. If it is not free, check the tightness of the pivot bolt.
+8. Check that the lever engages the front brake light switch.
+9. Adjust to the preferred setting of the available four.
+
+##### Steps (clutch)
+
+1. Remove the 10mm nut on the front brake lever pivot point.
+2. Remove the flat-blade bolt on the front brake lever pivot point.
+3. Remove the 4mm hex socket bar-end bolt.
+4. Remove the handguard.
+5. Remove the factory clutch lever.
+

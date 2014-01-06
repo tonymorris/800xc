@@ -460,6 +460,10 @@
 
 ----
 
+#### Fix mirrors
+
+----
+
 #### Bypass kickstand cut-out
 
 ----
