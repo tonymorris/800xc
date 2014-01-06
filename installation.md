@@ -104,7 +104,7 @@ Colour: black lever with silver adjuster.
 6. Reinstall the 10mm nut on the front brake lever pivot point, being careful not to be too tight.
 7. Check that the lever pivots freely. If it is not free, check the tightness of the pivot bolt.
 8. Check that the lever engages the front brake light switch.
-9. Adjust to the preferred setting of the available four.
+9. Adjust the lever to the preferred setting of the available six.
 
 ##### Steps (clutch)
 
@@ -112,5 +112,24 @@ Colour: black lever with silver adjuster.
 2. Remove the flat-blade bolt on the front brake lever pivot point.
 3. Remove the 4mm hex socket bar-end bolt.
 4. Remove the handguard.
-5. Remove the factory clutch lever.
+5. Remove the factory clutch lever and disconnect the clutch cable.
+6. Install the CNC clutch lever, lining up the hole with the pivot point and re-insert the clutch cable tip. *Note that you may need to drill the hole that holds the clutch cable tip to proper specification. Use a 8mm drill bit and check that the clutch cable tip inserts and moves freely.*
+7. Reinstall the handguard
+8. Reinstall the bar-end bolt.
+9. Reinstall the flat-blade bolt on the front brake lever pivot point, being careful not to be too tight.
+10. Reinstall the 10mm nut on the front brake lever pivot point, being careful not to be too tight.
+11. Adjust the lever to the preferred setting of the available six.
+12. Check the clutch cable adjustment.
+
+----
+
+<a href="http://i.imgur.com/QJEL2Un.jpg"><img height="581" width="1032" src="http://i.imgur.com/RhlR5RX.jpg" alt="Triumph 800XC with CNC lever"></a>
+
+----
+
+<a href="http://i.imgur.com/kzAM8R8.jpg"><img height="581" width="1032" src="http://i.imgur.com/kzAM8R8.jpg" alt="Triumph 800XC with CNC lever"></a>
+
+----
+
+
 
