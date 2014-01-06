@@ -24,10 +24,10 @@
 
 ----
 
-### CNC Brake/Clutch Levers (ebay)
+### ~~CNC Brake/Clutch Levers (ebay)~~
 
-* 20131215
-* AUD31.99
+* ~~20131215~~
+* ~~AUD31.99~~
 
 ----
 
