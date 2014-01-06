@@ -88,3 +88,10 @@
 
 ----
 
+#### Shipping cost from USA
+* USPS shipping by Marli
+* Date 20141202
+* Jason owes Tony AUD80.00
+
+----
+
