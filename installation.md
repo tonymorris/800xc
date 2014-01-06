@@ -123,7 +123,7 @@ Colour: black lever with silver adjuster.
 
 ----
 
-<a href="http://i.imgur.com/QJEL2Un.jpg"><img height="581" width="1032" src="http://i.imgur.com/RhlR5RX.jpg" alt="Triumph 800XC with CNC lever"></a>
+<a href="http://i.imgur.com/QJEL2Un.jpg"><img height="581" width="1032" src="http://i.imgur.com/QJEL2Un.jpg" alt="Triumph 800XC with CNC lever"></a>
 
 ----
 
