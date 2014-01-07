@@ -47,7 +47,7 @@
 
 ----
 
-### Hirose connectors
+### ~~Hirose connectors~~
 
 * ~~20131226~~
 * ~~AUD103.75~~
