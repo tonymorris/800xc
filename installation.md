@@ -131,5 +131,25 @@ Colour: black lever with silver adjuster.
 
 ----
 
+### Triumph Swingarm Spools (A9640023)
 
+##### Tools required
 
+* 6mm hex socket head wrench
+* Loctite 263 thread-locker
+
+##### Steps
+
+1. Apply a small amount of Loctite 263 thread-locker to the spool thread.
+2. Using the 6mm hex socket head wrench, tighten the spool onto the mounting point on the rear of the swingarm.
+3. Apply step 2 to the mounting point on the other side of the swingarm.
+
+----
+
+<a href="http://i.imgur.com/EkgKerP.jpg"><img height="581" width="1032" src="http://i.imgur.com/EkgKerP.jpg" alt="Triumph 800XC swingarm spool"></a>
+
+----
+
+<a href="http://i.imgur.com/vY0Jcma.jpg"><img height="581" width="1032" src="http://i.imgur.com/vY0Jcma.jpg" alt="Triumph 800XC swingarm spool"></a>
+
+----
