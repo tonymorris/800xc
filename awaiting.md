@@ -2,10 +2,10 @@
 
 ----
 
-### Hella Socket 12V x 2 (ebay)
+### ~~Hella Socket 12V x 2 (ebay)~~
 
-* 20131217
-* AUD18.00
+* ~~20131217~~
+* ~~AUD18.00~~
 
 ----
 
