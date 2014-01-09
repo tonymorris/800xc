@@ -189,7 +189,7 @@ Colour: black lever with silver adjuster.
 
 ----
 
-<a href="http://i.imgur.com/qVvOr4t.jpg"><img height="581" width="1032" src="http://i.imgur.com/qVvOr4t.jpg" alt="Factory footpeg measuring width"></a>
+<a href="http://i.imgur.com/qVvOr4t.jpg"><img height="873" width="580" src="http://i.imgur.com/qVvOr4t.jpg" alt="Factory footpeg measuring width"></a>
 
 ----
 
