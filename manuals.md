@@ -20,13 +20,13 @@
 
 * UK
 
-  *Publication part number 3855153 issue 1.*
+  *Publication part number 3855153 issue 1*
 
   [Download](http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/CA-CC-series_OHB_UK.pdf) **5.5MB**
 
 * US_EN
 
-  *Publication part number 3855158 issue 1.*
+  *Publication part number 3855158 issue 1*
 
   [Download](http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/CA-CC_Series_OHB_US_EN.pdf) **5.1MB**
 
