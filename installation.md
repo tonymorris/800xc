@@ -153,3 +153,63 @@ Colour: black lever with silver adjuster.
 <a href="http://i.imgur.com/vY0Jcma.jpg"><img height="581" width="1032" src="http://i.imgur.com/vY0Jcma.jpg" alt="Triumph 800XC swingarm spool"></a>
 
 ----
+
+### Pivot Pegz Mark 3
+
+##### Tools required
+
+* 6mm hex socket head wrench
+* Small flat-blade screwdriver
+* Nose pliers
+
+##### Steps (Right side)
+
+1. Using the 6mm hex socket head wrench, loosen the pivot bolt that holds the rear brake lever.
+2. Using the flat-blade screwdriver, undo the e-clip retainer clip that holds the footpeg pivot pin.
+3. Using the nose pliers, remove the right footpeg pivot pin.
+4. Remove the right footpeg and spring.
+5. Fit the Pivot Pegz Mark 3 right footpeg and Pivot Pegz Mark 3 right pivoting spring in position (according to the diagram that accompanies the product).
+6. Fit the footpeg pivoting pin that was removed in step 3.
+7. Fit the e-clip to the pivoting pin that was removed in step 2.
+
+----
+
+##### Steps (Left side)
+
+1. Using the flat-blade screwdriver, undo the e-clip retainer clip that holds the footpeg pivot pin.
+2. Using the nose pliers, remove the right footpeg pivot pin.
+3. Remove the right footpeg and spring.
+4. Fit the Pivot Pegz Mark 3 right footpeg and Pivot Pegz Mark 3 right pivoting spring in position (according to the diagram that accompanies the product).
+5. Fit the footpeg pivoting pin that was removed in step 2.
+6. Fit the e-clip to the pivoting pin that was removed in step 1.
+
+##### Notes
+
+* The width of the footpeg pivot point is 24mm.
+
+----
+
+<a href="http://i.imgur.com/qVvOr4t.jpg"><img height="581" width="1032" src="http://i.imgur.com/qVvOr4t.jpg" alt="Factory footpeg measuring width"></a>
+
+----
+
+<a href="http://i.imgur.com/0tx930z.jpg"><img height="581" width="1032" src="http://i.imgur.com/0tx930z.jpg" alt="Triumph 800XC with Pivot Pegz Mark 3"></a>
+
+----
+
+<a href="http://i.imgur.com/N1J9C1d.jpg"><img height="581" width="1032" src="http://i.imgur.com/N1J9C1d.jpg" alt="Triumph 800XC with Pivot Pegz Mark 3"></a>
+
+----
+
+<a href="http://i.imgur.com/MmYHSAv.jpg"><img height="581" width="1032" src="http://i.imgur.com/MmYHSAv.jpg" alt="Triumph 800XC with Pivot Pegz Mark 3"></a>
+
+----
+
+<a href="http://i.imgur.com/HF5avtY.jpg"><img height="581" width="1032" src="http://i.imgur.com/HF5avtY.jpg" alt="Triumph 800XC with Pivot Pegz Mark 3"></a>
+
+----
+
+<a href="http://i.imgur.com/027f4k5.jpg"><img height="581" width="1032" src="http://i.imgur.com/027f4k5.jpg" alt="Triumph 800XC with Pivot Pegz Mark 3"></a>
+
+----
+
