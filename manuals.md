@@ -34,9 +34,9 @@
 
 ### Fitting Instructions: Tiger 800 and Tiger 800XC A9638120, A9638126
 
-*Publication part number A9901535 issue 5, DC 12857*
-
 ##### Heated grips installation
+
+*Publication part number A9901535 issue 5, DC 12857*
 
 [Download]((http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/A9638120-EN-heated-grips.pdf) **0.8MB**
 
@@ -44,9 +44,9 @@
 
 ### Fitting Instructions: Tiger 800 and Tiger 800XC A9838003 and A9838011 to VIN 611411 A9838017
 
-*Publication part number A9900681 issue 2, ADC 12925*
-
 ##### LED fog lights installation
+
+*Publication part number A9900681 issue 2, ADC 12925*
 
 [Download](http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/A9838017-EN-led-fog-lights.pdf) **0.525MB**
 
