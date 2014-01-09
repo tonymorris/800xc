@@ -275,6 +275,8 @@
 * ~~Sicass handguard turn signals~~
   * ~~_parts 22-106, 22-300, 22-206_~~
   * ~~[sicass.com](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors) USD56.98~~
+* Barkbusters BHG47-NP
+  * [adventuremoto.com.au](https://www.adventuremoto.com.au/product_info.php?products_id=1556) AUD120.00
 
 ----
 
