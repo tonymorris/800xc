@@ -38,7 +38,7 @@
 
 *Publication part number A9901535 issue 5, DC 12857*
 
-[Download]((http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/A9638120-EN-heated-grips.pdf) **0.8MB**
+[Download](http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/A9638120-EN-heated-grips.pdf) **0.8MB**
 
 ----
 
