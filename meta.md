@@ -33,12 +33,20 @@ Green
 ### Dealer
 
 TeamMoto Triumph Virginia
+
 Address: 1916 Sandgate Rd Virginia Q 4014
+
 Phone: 0732592900
+
 Email: svsales@teammoto.com.au
+
 Licence: 1803685
+
 ABN: 19066876793
+
 Customer No: MOR194
+
 Stock No: 201147
+
 Salesman: Phil Cotton
 
