@@ -37,6 +37,7 @@
 * Dunlop D908
 * Mitas E09
 * Mitas E07
+* Kenda K784
 
 ----
 
