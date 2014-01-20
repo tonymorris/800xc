@@ -56,13 +56,13 @@
 
 #### PLB
   * SPOT 2 GPS Messenger
-    * [ja-gps.com.au](http://www.ja-gps.com.au/SPOT/spot-satellite-gps-messenger-v2/) AUD155
+    * [ja-gps.com.au](http://www.ja-gps.com.au/SPOT/spot-satellite-gps-messenger-v2/) ~~AUD155.00~~ AUD137.00
     * [USD115/year subscription](http://au.findmespot.com/en/index.php?cid=103)
       * 200 annual check-in/OK USD0.10 thereafter
       * +USD49.99/year send to and save location
     * RAM mount
   * SPOT Gen 3 GPS Messenger
-    * [ja-gps.com.au](http://www.ja-gps.com.au/SPOT/spot-gen-3/) AUD199.00
+    * [ja-gps.com.au](http://www.ja-gps.com.au/SPOT/spot-gen-3/) ~~AUD199.00~~ AUD188.00
     * [USD165/year subscription](http://au.findmespot.com/en/index.php?cid=103)
 
 ----
