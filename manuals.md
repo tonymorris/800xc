@@ -52,3 +52,13 @@
 
 ----
 
+### Fitting Instructions: Tiger 800, Tiger 800XC and Tiger Explorer A9828005
+
+##### Auxilary power socket installation
+
+*Publication part number A9900523 issue 3, ADC 11270*
+
+[Download](http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/A9828005-EN-auxilary-power-socket.pdf) **0.176B**
+
+----
+
