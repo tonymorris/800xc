@@ -3,7 +3,7 @@
 set -e
 
 mkdir -p dist
-for doc in awaiting installation marli meeting-20131216 todo transactions
+for doc in 1service awaiting installation manuals marli meeting-20131216 meta todo transactions
 do
   echo "$doc"
   pandoc "$doc".md -o dist/"$doc".pdf --tab-stop=2
