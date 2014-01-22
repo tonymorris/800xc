@@ -6,7 +6,7 @@
 
 *Part Number 3856760, issue 1, 12.2010*
 
-[Download](http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/2010-2013%20Triumph%20Tiger%20800_XC%20(ABS%20Model%20included\).pdf) **20.8MB**
+[Download](http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/2010-2013%20Triumph%20Tiger%20800_XC%20\(ABS%20Model%20included\).pdf) **20.8MB**
 
 ### Triumph Tiger 800 and Tiger 800XC (Including ABS models) Motorcycle Service Manual
 
