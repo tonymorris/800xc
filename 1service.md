@@ -1,7 +1,5 @@
 # First Service
 
-### Points of note
-
 * Install ECU map for Arrow pipe
 
 * Noisy kickstand on rough surface
