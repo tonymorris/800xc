@@ -7,5 +7,5 @@
 * Panniers, including installation as condition of sale
 
 * Fuel tank mount bolt (right side)
-  * stripped? cross-threaded?
+  * stripped thread? cross-threaded?
 
