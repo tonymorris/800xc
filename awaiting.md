@@ -71,11 +71,11 @@
 
 ----
 
-### CK078 Uniden charger
+### ~~CK078 Uniden charger~~
 
-* gaadgetcity.com.au
-* 20140117
-* AUD49.00
+* ~~gadgetcity.com.au~~
+* ~~20140117~~
+* ~~AUD49.00~~
 
 ----
 
