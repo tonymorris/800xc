@@ -53,6 +53,12 @@
   * [bikebandit.com](http://www.bikebandit.com/acerbis-rearview-motorcycle-mirror?m=154268) USD17.96
 * EMGO Universal Fold Down
   * [bikebandit.com](http://www.bikebandit.com/emgo-universal-fold-down-motorcycle-mirror?m=154268) USD14.95
+* doubletake + 3" RAM long arm
+  * [doubletakemirror.com](http://www.doubletakemirror.com/build/triumph) USD25.00 + USD12.50
+
+#### Seat
+  * Corbin
+    * [corbin.com](http://www.corbin.com/triumph/ttgr811gl.shtml) USD439.00
 
 #### PLB
   * SPOT 2 GPS Messenger
