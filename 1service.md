@@ -10,3 +10,5 @@
 * Fuel tank mount bolt (right side)
   * stripped thread? cross-threaded?
 
+* What is the name of the direction indicator connectors?
+
