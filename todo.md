@@ -70,6 +70,7 @@
   * SPOT Gen 3 GPS Messenger
     * [ja-gps.com.au](http://www.ja-gps.com.au/SPOT/spot-gen-3/) ~~AUD199.00~~ AUD188.00
     * [USD165/year subscription](http://au.findmespot.com/en/index.php?cid=103)
+    * RAM mount (RAM-HOL-SPO4U)
 
 ----
 
