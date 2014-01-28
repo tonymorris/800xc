@@ -41,6 +41,12 @@
 
 ----
 
+#### Countershaft Sprocket
+
+15 tooth for 525 chain size
+
+----
+
 #### Mirrors
 
 * MSR Dual Sport
