@@ -42,6 +42,16 @@
 
 ----
 
+### Fitting Instructions: Tiger 800 and Tiger 800XC A9508142 or A9508143
+
+##### Side panniers installation
+
+*Publication part number A9900550 issue 3, ADC 10484*
+
+[Download](http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/A9508143.pdf) **0.651MB**
+
+----
+
 ### Fitting Instructions: Tiger 800 and Tiger 800XC A9838003 and A9838011 to VIN 611411 A9838017
 
 ##### LED fog lights installation
