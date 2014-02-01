@@ -105,7 +105,19 @@
 * NAB
 * Date: 20140117
 * Jason deposited AUD300.00
-* Remaining @ 20140118: AUD33.90
+* Remaining @ 20140118: Jason owes Tony AUD33.90
 
 ----
+
+#### Hirose 6-pin connectors
+* Date 20140128
+* Replacement for earlier incorrect order
+* Jason owes Tony AUD35.70 (from total of AUD71.40)
+
+----
+
+#### Cash
+* Jason to Tony
+* AUD50.00
+* Remaining @ 20140201: Jason owes Tony AUD19.60
 
