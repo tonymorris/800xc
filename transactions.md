@@ -137,3 +137,10 @@
 * Tony owes Jason AUD42.00
 * Remaining @ 20140215: Jason owes Tony AUD75.60
 
+----
+
+#### Cash
+* Date 20140215
+* Jason paid Tony AUD75.00 cash
+* Remaining @ 20140215: 0.00
+
