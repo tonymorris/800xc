@@ -50,3 +50,10 @@ Stock No: 201147
 
 Salesman: Phil Cotton
 
+### Tyres
+
+Front 90/90 R21
+
+Rear 150/70 R17
+
+
