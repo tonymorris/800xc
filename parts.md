@@ -70,7 +70,7 @@
 ----
 
 #### Air pre-filter
-* Unifilter NU3704
+* [Unifilter NU3704](http://www.uniflow.com.au/contents/en-us/d57.html)
 
 ----
 
