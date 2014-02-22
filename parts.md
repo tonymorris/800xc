@@ -25,7 +25,7 @@
 ----
 
 #### Handguards
-
+* [Sicass Racing 22-206](http://sicassracing.com/store/products/turn_signals/led/sicass_black_turn_signal_hand_guard_deflectors)
 ----
 
 #### Rear indicators
