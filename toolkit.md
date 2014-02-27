@@ -9,4 +9,5 @@ Toolkit
 * socket extension
 * socket joint
 * nose pliers
+* torch
 
