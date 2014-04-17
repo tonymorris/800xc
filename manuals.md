@@ -44,11 +44,21 @@
 
 ### Fitting Instructions: Tiger 800 and Tiger 800XC A9508142 or A9508143
 
-##### Side panniers installation
+##### Side panniers installation (old type with link bar)
 
 *Publication part number A9900550 issue 3, ADC 10484*
 
 [Download](http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/A9508143.pdf) **0.651MB**
+
+----
+
+### Fitting Instructions: Tiger 800 and Tiger 800XC A9508166, A9508172 and A9508173
+
+##### Side panniers installation (new type with cams, no link bar)
+
+*Publication part number A9900643 issue 3, DC 65584*
+
+[Download](http://dl.dropboxusercontent.com/u/7810909/media/manuals/800XC/A9508166-US.pdf) **1.5MB**
 
 ----
 
