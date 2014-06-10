@@ -5,7 +5,7 @@ set -e
 mkdir -p dist
 mkdir -p dist/crash/2014-02-09
 
-for doc in 1service installation manuals meeting-20131216 meta parts transactions crash/2014-02-09/damage
+for doc in 1service installation manuals meeting-20131216 meta parts sale transactions crash/2014-02-09/damage
 do
   echo "$doc"
   pandoc "$doc".md -o dist/"$doc".pdf --tab-stop=2
