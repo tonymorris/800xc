@@ -37,3 +37,5 @@
 * Install rear guard reflector
 
 * Install OEM levers
+
+* Install registration label
