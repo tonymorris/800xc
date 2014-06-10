@@ -38,4 +38,6 @@
 
 * Install OEM levers
 
+* Install OEM handguards
+
 * Install registration label
