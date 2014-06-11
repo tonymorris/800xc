@@ -5,7 +5,7 @@
 * 6800km
 * Full service history
 * Roadworthy Safety Certificate (RWC)
-* 6 months Queensland registration (149KQ)
+* Queensland registration (149KQ) to December 2014
 
 ##### Accessories
 
