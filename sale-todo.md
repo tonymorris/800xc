@@ -18,9 +18,9 @@
 
 * ~~Remove skid plate~~
 
-* Remove handlebar risers
+* ~~Remove handlebar risers~~
 
-* Remove all RAM mounts
+* ~~Remove all RAM mounts~~
 
 * Remove shorty levers
 
