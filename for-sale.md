@@ -24,6 +24,8 @@
 * Showa rear monoshock with 215mm travel
 * Anti-Lock Brake (ABS) system
 * 20L Fuel Tank
+* 190kg dry weight
+* 215kg wet weight
 * Trellis frame
 
 ##### How much?
