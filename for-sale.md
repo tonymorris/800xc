@@ -4,6 +4,7 @@
 
 * 6800km
 * Full service history
+* Roadworthy Safety Certificate (RWC)
 * 6 months Queensland registration (149KQ)
 
 ##### Accessories
@@ -36,7 +37,7 @@
 
 Tony Morris
 
-* [Emailtonymorris+triumph@gmail.com](tonymorris+triumph@gmail.com)
+* [Email tonymorris+triumph@gmail.com](mailto:tonymorris+triumph@gmail.com)
 * Phone 0408711099
 * This Triumph can be viewed at Everton Hills, Brisbane 4053
 
