@@ -24,6 +24,8 @@
 
 * Remove shorty levers
 
+* Remove Philips head lamps
+
 * Install OEM muffler
 
 * Install panniers
@@ -41,6 +43,10 @@
 * Install OEM handguards
 
 * ~~Install OEM footpegs~~
+
+* Install OEM toolkit
+
+* Install OEM head lamps
 
 * Install registration label
 
