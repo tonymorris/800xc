@@ -14,9 +14,17 @@
 * Genuine Triumph swingarm spools (A9640023)
 * Unifilter air filter pre-cleaner (for ease of servicing the air filter)
 
-##### Located
+##### Specifications
 
-Everton Hills, Brisbane 4053
+* 799cc, fuel-injected, DOHC inline 3 cylinder
+* 70kW (94hp) peak power
+* 79Nm peak torque
+* 6 speed transmission
+* 45mm Showa USD forks with 220mm travel
+* Showa rear monoshock with 215mm travel
+* Anti-Lock Brake (ABS) system
+* 20L Fuel Tank
+* Trellis frame
 
 ##### How much?
 
@@ -24,6 +32,9 @@ Everton Hills, Brisbane 4053
 
 ##### Contact
 
-* [Email tonymorris+triumph@gmail.com](tonymorris+triumph@gmail.com)
+Tony Morris
+
+* [Emailtonymorris+triumph@gmail.com](tonymorris+triumph@gmail.com)
 * Phone 0408711099
+* This Triumph can be viewed at Everton Hills, Brisbane 4053
 
