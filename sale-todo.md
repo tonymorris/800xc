@@ -1,14 +1,14 @@
 # TODO before sale
 
-* Remove spotlights
+* ~~Remove spotlights~~
 
-* Remove USB chargers
+* ~~Remove USB chargers~~
 
-* Remove relays
+* ~~Remove relays~~
 
 * Remove muffler
 
-* Remove SR10 and cabling
+* ~~Remove SR10 and cabling~~
 
 * Remove handguards
 
