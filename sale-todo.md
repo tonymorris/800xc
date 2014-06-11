@@ -12,11 +12,11 @@
 
 * Remove handguards
 
-* Remove Pivot Pegz
+* ~~Remove Pivot Pegz~~
 
 * Remove crash bar
 
-* Remove skid plate
+* ~~Remove skid plate~~
 
 * Remove handlebar risers
 
@@ -32,7 +32,7 @@
 
 * Install OEM indicators
 
-* Install OEM skid plate
+* ~~Install OEM skid plate~~
 
 * Install rear guard reflector
 
@@ -40,4 +40,11 @@
 
 * Install OEM handguards
 
+* ~~Install OEM footpegs~~
+
 * Install registration label
+
+* Wash
+
+* RWC
+
