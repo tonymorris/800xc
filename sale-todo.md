@@ -24,7 +24,7 @@
 
 * Remove shorty levers
 
-* Remove Philips head lamps
+* ~~Remove Philips head lamps~~
 
 * Install OEM muffler
 
@@ -46,7 +46,7 @@
 
 * Install OEM toolkit
 
-* Install OEM head lamps
+* ~~Install OEM head lamps~~
 
 * Install registration label
 
