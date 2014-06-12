@@ -14,15 +14,13 @@
 
 * ~~Remove Pivot Pegz~~
 
-* Remove crash bar
+* ~~Remove crash bar~~
 
 * ~~Remove skid plate~~
 
 * ~~Remove handlebar risers~~
 
 * ~~Remove all RAM mounts~~
-
-* Remove sprocket
 
 * ~~Remove Philips head lamps~~
 
@@ -37,8 +35,6 @@
 * ~~Install OEM skid plate~~
 
 * Install rear guard reflector
-
-* Install OEM sprocket
 
 * ~~Install OEM handguards~~
 
