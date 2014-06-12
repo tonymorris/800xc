@@ -46,6 +46,8 @@
 
 * Install registration label
 
+* Touch-up rims
+
 * Wash
 
 * RWC
