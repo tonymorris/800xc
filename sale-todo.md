@@ -24,6 +24,8 @@
 
 * Remove shorty levers
 
+* Remove sprocket
+
 * ~~Remove Philips head lamps~~
 
 * Install OEM muffler
@@ -39,6 +41,8 @@
 * Install rear guard reflector
 
 * Install OEM levers
+
+* Install OEM sprocket
 
 * Install OEM handguards
 
