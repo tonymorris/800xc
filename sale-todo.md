@@ -6,7 +6,7 @@
 
 * ~~Remove relays~~
 
-* Remove muffler
+* ~~Remove muffler~~
 
 * ~~Remove SR10 and cabling~~
 
@@ -26,7 +26,7 @@
 
 * ~~Remove Philips head lamps~~
 
-* Install OEM muffler
+* ~~Install OEM muffler~~
 
 * Install panniers
 
