@@ -40,7 +40,7 @@
 
 * ~~Install OEM footpegs~~
 
-* Install OEM toolkit
+* ~~Install OEM toolkit~~
 
 * ~~Install OEM head lamps~~
 
