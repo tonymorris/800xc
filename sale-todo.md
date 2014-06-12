@@ -10,7 +10,7 @@
 
 * ~~Remove SR10 and cabling~~
 
-* Remove handguards
+* ~~Remove handguards~~
 
 * ~~Remove Pivot Pegz~~
 
@@ -22,8 +22,6 @@
 
 * ~~Remove all RAM mounts~~
 
-* Remove shorty levers
-
 * Remove sprocket
 
 * ~~Remove Philips head lamps~~
@@ -32,19 +30,17 @@
 
 * Install panniers
 
-* Install indicator relay
+* ~~Install indicator relay~~
 
-* Install OEM indicators
+* ~~Install OEM indicators~~
 
 * ~~Install OEM skid plate~~
 
 * Install rear guard reflector
 
-* Install OEM levers
-
 * Install OEM sprocket
 
-* Install OEM handguards
+* ~~Install OEM handguards~~
 
 * ~~Install OEM footpegs~~
 
