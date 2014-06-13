@@ -14,6 +14,7 @@
 * Genuine Triumph heated grips (A9638120)
 * Genuine Triumph swingarm spools (A9640023)
 * Unifilter air filter pre-cleaner (for ease of servicing the air filter)
+* Original tyres included (95% tread)
 
 ##### Specifications
 
