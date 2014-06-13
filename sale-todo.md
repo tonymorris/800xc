@@ -34,8 +34,6 @@
 
 * ~~Install OEM skid plate~~
 
-* Install rear guard reflector
-
 * ~~Install OEM handguards~~
 
 * ~~Install OEM footpegs~~
@@ -44,15 +42,11 @@
 
 * ~~Install OEM head lamps~~
 
-* Install registration label
+* ~~Install registration label~~
 
 * Touch-up rims
 
 * Wash
 
 * RWC
-
-----
-
-* Swap rear indicators
 
