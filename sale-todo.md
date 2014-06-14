@@ -44,9 +44,9 @@
 
 * ~~Install registration label~~
 
-* Touch-up rims
+* ~~Touch-up rims~~
 
-* Original tyres
+* ~~Original tyres~~
 
 * Wash
 
