@@ -46,7 +46,13 @@
 
 * Touch-up rims
 
+* Original tyres
+
 * Wash
 
 * RWC
+
+----
+
+* Front indicators
 
