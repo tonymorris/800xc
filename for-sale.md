@@ -4,6 +4,7 @@
 
 * 6800km
 * Full service history
+* Factory warranty to November 2016
 * Roadworthy Safety Certificate (RWC)
 * Queensland registration (149KQ) to December 2014
 
