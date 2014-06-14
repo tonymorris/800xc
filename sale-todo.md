@@ -26,7 +26,7 @@
 
 * ~~Install OEM muffler~~
 
-* Install panniers
+* ~~Install panniers~~
 
 * ~~Install indicator relay~~
 
