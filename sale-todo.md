@@ -48,7 +48,7 @@
 
 * ~~Original tyres~~
 
-* Wash
+* ~~Wash~~
 
 * RWC
 
