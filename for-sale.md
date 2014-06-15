@@ -34,7 +34,7 @@
 
 ##### How much?
 
-**$15000**
+**$15000.00**
 
 [Redbook](http://www.redbook.com.au/bikes/research/new/details/2014-triumph-tiger-800-xc-abs-695661?R=695661&Silo=Spec&Vertical=Bike&Ridx=0&eapi=2)
 
