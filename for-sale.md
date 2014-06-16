@@ -2,7 +2,7 @@
 
 ### MY2014 Triumph 800XC
 
-* 6800km
+* 6844km
 * Full service history
 * Factory warranty to November 2016
 * Roadworthy Safety Certificate (RWC)
